@@ -1,0 +1,58 @@
+services:
+
+  namenode:
+    image: hadoop:3.5.0-java17
+    container_name: namenode
+    hostname: namenode
+    user: hadoop
+    volumes:
+      - ./config:/opt/hadoop/etc/hadoop:ro
+      - ./data/namenode:/data/namenode
+    ports:
+      - "9870:9870"
+      - "8020:8020"
+    command:
+      - bash
+      - -c
+      - |
+        if [ ! -f /data/namenode/current/VERSION ]; then
+          echo "Formatant NameNode..."
+          hdfs namenode -format -force -nonInteractive
+        fi
+        exec hdfs namenode
+
+  datanode1:
+    image: hadoop:3.5.0-java17
+    container_name: datanode1
+    hostname: datanode1
+    user: hadoop
+    volumes:
+      - ./config:/opt/hadoop/etc/hadoop:ro
+      - ./data/datanode1:/data/datanode
+    command:
+      - hdfs
+      - datanode
+
+  datanode2:
+    image: hadoop:3.5.0-java17
+    container_name: datanode2
+    hostname: datanode2
+    user: hadoop
+    volumes:
+      - ./config:/opt/hadoop/etc/hadoop:ro
+      - ./data/datanode2:/data/datanode
+    command:
+      - hdfs
+      - datanode
+
+  datanode3:
+    image: hadoop:3.5.0-java17
+    container_name: datanode3
+    hostname: datanode3
+    user: hadoop
+    volumes:
+      - ./config:/opt/hadoop/etc/hadoop:ro
+      - ./data/datanode3:/data/datanode
+    command:
+      - hdfs
+      - datanode
