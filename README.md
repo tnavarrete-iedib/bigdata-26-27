@@ -2,4 +2,4 @@ Repositori de fitxers dels mòduls de **Sistemes de big data** i **Big data apli
 
 Professor: Toni Navarrete.
 
-Institut d'Ensenayments a Distància de les Illes Balears (IEDIB)
+Institut d'Ensenyaments a Distància de les Illes Balears (IEDIB)
