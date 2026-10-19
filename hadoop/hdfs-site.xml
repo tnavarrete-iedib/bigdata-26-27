@@ -2,8 +2,23 @@
 <?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
 
 <configuration>
+
+    <!-- Nombre de rèpliques de cada bloc HDFS -->
     <property>
-        <name>fs.defaultFS</name>
-        <value>hdfs://namenode:8020</value>
+        <name>dfs.replication</name>
+        <value>3</value>
     </property>
-</configuration> 
+
+    <!-- Emmagatzematge del NameNode -->
+    <property>
+        <name>dfs.namenode.name.dir</name>
+        <value>file:///data/namenode</value>
+    </property>
+
+    <!-- Emmagatzematge dels DataNodes -->
+    <property>
+        <name>dfs.datanode.data.dir</name>
+        <value>file:///data/datanode</value>
+    </property>
+
+</configuration>
