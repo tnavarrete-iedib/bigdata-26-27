@@ -163,7 +163,7 @@ person_id	id	name	character	role
 744350	tm120801	Michael Segal	Airborne Band Conductor (uncredited)	ACTOR
 1063	tm120801	Robert Aldrich		DIRECTOR
 11472	ts22164	Graham Chapman	Various	ACTOR
-11476	ts22164	Michael Palin	"Various / ""It's"" man"	ACTOR
+11476	ts22164	Michael Palin	Various / "It's" man	ACTOR
 11475	ts22164	Terry Jones	Various	ACTOR
 11474	ts22164	Eric Idle	Various	ACTOR
 11473	ts22164	Terry Gilliam	Various	ACTOR
@@ -1807,7 +1807,7 @@ person_id	id	name	character	role
 619877	tm191013	Lil' Cinderella	Colonel's Lady Friend	ACTOR
 429892	tm191013	Greg Lauren	Young Stud	ACTOR
 455715	tm191013	Tom Dorfmeister	Watcher #1	ACTOR
-43349	tm191013	"Jason ""Jake"" Cross"	Watcher #2	ACTOR
+43349	tm191013	Jason "Jake" Cross	Watcher #2	ACTOR
 597615	tm191013	Ricky Jay	Kurt Longjohn	ACTOR
 28473	tm191013	Jack Wallace	Rocky	ACTOR
 619873	tm191013	Selwyn Emerson Miller	Hot Traxx DJ	ACTOR
@@ -1958,12 +1958,12 @@ person_id	id	name	character	role
 4494	tm25947	Dennis Farina	Cousin Avi	ACTOR
 4492	tm25947	Vinnie Jones	Bullet Tooth Tony	ACTOR
 2929	tm25947	Brad Pitt	Mickey O'Neil	ACTOR
-4497	tm25947	Rade Šerbedžija	"Boris ""The Blade"" Yurinov"	ACTOR
+4497	tm25947	Rade Šerbedžija	Boris "The Blade" Yurinov	ACTOR
 2674	tm25947	Jason Statham	Turkish	ACTOR
 4502	tm25947	Jason Flemyng	Darren	ACTOR
 4491	tm25947	Stephen Graham	Tommy	ACTOR
 4493	tm25947	Alan Ford	Brick Top Polford	ACTOR
-4500	tm25947	Mike Reid	"Doug ""The Head"" Denovitz"	ACTOR
+4500	tm25947	Mike Reid	Doug "The Head" Denovitz	ACTOR
 4498	tm25947	Robbie Gee	Vincent	ACTOR
 4499	tm25947	Lennie James	Sol	ACTOR
 1554	tm25947	Ewen Bremner	Mullet	ACTOR
@@ -2405,7 +2405,7 @@ person_id	id	name	character	role
 9304	tm192405	Alan Arkin	Detective Hugo	ACTOR
 9306	tm192405	Loren Dean	Adult Anton Freeman	ACTOR
 9305	tm192405	Gore Vidal	Director Josef	ACTOR
-8689	tm192405	Tony Shalhoub	"""German"""	ACTOR
+8689	tm192405	Tony Shalhoub	"German"	ACTOR
 1050	tm192405	Ernest Borgnine	Caesar	ACTOR
 12527	tm192405	Blair Underwood	Geneticist	ACTOR
 5873	tm192405	Xander Berkeley	Dr. Lamar	ACTOR
@@ -2994,7 +2994,7 @@ person_id	id	name	character	role
 10431	tm111163	Rocco Sisto	Pauley	ACTOR
 31952	tm111163	Gerald Berns	Young Agent	ACTOR
 20760	tm111163	Steven Ford	Knoland	ACTOR
-91759	tm111163	"Ismael ""East"" Carlo"	Father Rodriguez	ACTOR
+91759	tm111163	Ismael "East" Carlo	Father Rodriguez	ACTOR
 31326	tm111163	Tommy J. Huff	Somes	ACTOR
 449654	tm111163	Rick Batalla	Kevin, the Bartender	ACTOR
 11235	tm111163	Michael Gregory	Leiman	ACTOR
@@ -3135,13 +3135,13 @@ person_id	id	name	character	role
 24565	tm187791	Steve Railsback	CIA Agent David Coppinger (uncredited)	ACTOR
 3235	tm187791	William Shipman	D.C. Police Officer (uncredited)	ACTOR
 11847	tm187791	Wolfgang Petersen		DIRECTOR
-5937	tm113576	Winona Ryder	"Josephine ""Jo"" March"	ACTOR
-30557	tm113576	Trini Alvarado	"Margaret ""Meg"" March"	ACTOR
-5036	tm113576	Claire Danes	"Elizabeth ""Beth"" March"	ACTOR
+5937	tm113576	Winona Ryder	Josephine "Jo" March	ACTOR
+30557	tm113576	Trini Alvarado	Margaret "Meg" March	ACTOR
+5036	tm113576	Claire Danes	Elizabeth "Beth" March	ACTOR
 4395	tm113576	Kirsten Dunst	Younger Amy March	ACTOR
 11242	tm113576	Samantha Mathis	Older Amy March	ACTOR
-5201	tm113576	Susan Sarandon	"Mrs. Abigail ""Marmee"" March"	ACTOR
-4567	tm113576	Christian Bale	"Theodore ""Laurie"" Laurence"	ACTOR
+5201	tm113576	Susan Sarandon	Mrs. Abigail "Marmee" March	ACTOR
+4567	tm113576	Christian Bale	Theodore "Laurie" Laurence	ACTOR
 15100	tm113576	Gabriel Byrne	Friedrich Bhaer	ACTOR
 12420	tm113576	Eric Stoltz	John Brooke	ACTOR
 5023	tm113576	John Neville	Mr. Laurence	ACTOR
@@ -3216,7 +3216,7 @@ person_id	id	name	character	role
 97206	ts27693	Vanessa Baden	Kyra Rockmore	ACTOR
 12143	ts27693	Ken Foree	Roger Rockmore	ACTOR
 97207	ts27693	Teal Marchande	Sheryl Rockmore	ACTOR
-97208	ts27693	Dan Frischman	"Christopher ""Chris"" Potter"	ACTOR
+97208	ts27693	Dan Frischman	Christopher "Chris" Potter	ACTOR
 3036	tm19494	Keanu Reeves	Shane Falco	ACTOR
 15098	tm19494	Gene Hackman	Jimmy McGinty	ACTOR
 24787	tm19494	Brooke Langton	Annabelle Farrell	ACTOR
@@ -3619,7 +3619,7 @@ person_id	id	name	character	role
 435401	tm192199	Robia LaMorte	XNN Reporter	ACTOR
 48814	tm192199	Mark A.Z. Dippé		DIRECTOR
 27109	ts11397	Jaleel White	Sonic the Hedgehog (voice)	ACTOR
-65140	ts11397	Christopher Evan Welch	"Miles ""Tails"" Prower (voice)"	ACTOR
+65140	ts11397	Christopher Evan Welch	Miles "Tails" Prower (voice)	ACTOR
 965499	ts11397	Long John Baldry	Dr. Ivo Robotnik (voice)	ACTOR
 2182	ts11397	Garry Chalk	Grounder (voice)	ACTOR
 44942	ts11397	Philip Maurice Hayes	Scratch (voice)	ACTOR
@@ -3777,7 +3777,7 @@ person_id	id	name	character	role
 84587	tm10811	Cordis Heard	Nurse	ACTOR
 4091	tm10811	J. C. MacKenzie	Gas Man	ACTOR
 18526	tm10811	James Mangold		DIRECTOR
-67276	tm49839	LisaRaye McCoy	"Diana ""Diamond"" Armstrong"	ACTOR
+67276	tm49839	LisaRaye McCoy	Diana "Diamond" Armstrong	ACTOR
 6307	tm49839	Bernie Mac	Dollar Bill	ACTOR
 8976	tm49839	Jamie Foxx	Blue	ACTOR
 9083	tm49839	Ice Cube	Reggie	ACTOR
@@ -3852,7 +3852,7 @@ person_id	id	name	character	role
 712910	tm67635	Sana Saeed	Anjali	ACTOR
 706371	tm67635	Parzaan Dastur	Silent Sardarji	ACTOR
 429617	tm67635	Neelam Kothari	Neelam (Special Appearance)	ACTOR
-778496	tm67635	Geeta Kapoor	"Special Appearance in ""Tujhe Yaad Na Meri Aayee"" Song"	ACTOR
+778496	tm67635	Geeta Kapoor	Special Appearance in "Tujhe Yaad Na Meri Aayee" Song	ACTOR
 63670	tm67635	Farah Khan	Cameo Appearance	ACTOR
 365270	tm67635	Manish Malhotra	Cameo Appearance	ACTOR
 63375	tm67635	Nikkhil Advani	Cameo Appearance	ACTOR
@@ -3918,7 +3918,7 @@ person_id	id	name	character	role
 67163	tm55100	Piyush Mishra	CBI Investigation Officer	ACTOR
 64475	tm55100	Gajraj Rao	CBI investigation officer	ACTOR
 1157106	tm55100	Priya Parulekar	Young Moina	ACTOR
-63669	tm55100	Malaika Arora	"Special Appearance in ""Chaiyya Chaiyya"" song"	ACTOR
+63669	tm55100	Malaika Arora	Special Appearance in "Chaiyya Chaiyya" song	ACTOR
 68522	tm55100	Tigmanshu Dhulia	Cameo as Man at the Post Office	ACTOR
 65002	tm55100	Shaad Ali	Cameo as Citizen of Silchar	ACTOR
 320426	tm55100	Wasiq Khan	Cameo	ACTOR
@@ -4045,17 +4045,17 @@ person_id	id	name	character	role
 64512	tm12876	Tinnu Anand	Sakthi Samaj Head	ACTOR
 1086467	tm12876	Master Harsha	Kabir Narayan	ACTOR
 1086372	tm12876	Master Hridhay	Kamal Basheer	ACTOR
-63365	tm12876	Sonali Bendre	"Special appearance in song ""Humma Humma"""	ACTOR
-193891	tm12876	Nagendra Prasad	"Special appearance in song ""Humma Humma"""	ACTOR
+63365	tm12876	Sonali Bendre	Special appearance in song "Humma Humma"	ACTOR
+193891	tm12876	Nagendra Prasad	Special appearance in song "Humma Humma"	ACTOR
 45444	tm12876	Rohini	Shaila Banu Pillai (voice)	ACTOR
 464659	tm12876	M. V. Vasudeva Rao	Vasudeva Rao	ACTOR
 482807	tm12876	Priya		ACTOR
 66323	tm12876	Mani Ratnam		DIRECTOR
 278969	ts224786	Alejandra Borrero	Consuelo	ACTOR
-1945109	ts224786	Juan Carlos Arango	"Jaime ""El Mane"" Molina"	ACTOR
-1215329	ts224786	Nelly Moreno	"Paulina ""Pau"""	ACTOR
+1945109	ts224786	Juan Carlos Arango	Jaime "El Mane" Molina	ACTOR
+1215329	ts224786	Nelly Moreno	Paulina "Pau"	ACTOR
 1039969	ts224786	Carlos Vives	Rafael Escalona	ACTOR
-490143	ts224786	Florina Lemaitre	"Matilde ""Maye"" Manjarrés"	ACTOR
+490143	ts224786	Florina Lemaitre	Matilde "Maye" Manjarrés	ACTOR
 15320	ts224786	Rodrigo Obregón	Anastasio Espuelas	ACTOR
 258373	ts224786	Sergio Cabrera		DIRECTOR
 61013	tm62176	Aamir Khan	Karan Dev Singh	ACTOR
@@ -4355,7 +4355,7 @@ person_id	id	name	character	role
 69714	tm25389	Asha Sachdev	Ulfat	ACTOR
 423262	tm25389	Savita Prabhune	Police Officer (Special Appearance)	ACTOR
 66872	tm25389	Manoj Bajpayee	Murad Khan (Guest Appearance)	ACTOR
-64403	tm25389	Sushmita Sen	"Special Appearance in  ""Mehboob Mere"" Song"	ACTOR
+64403	tm25389	Sushmita Sen	Special Appearance in  "Mehboob Mere" Song	ACTOR
 441310	tm25389	Khalid Mohammed		DIRECTOR
 1549	tm34391	John Cleese	Himself	ACTOR
 11472	tm34391	Graham Chapman	Himself	ACTOR
@@ -4606,7 +4606,7 @@ person_id	id	name	character	role
 7103	ts12724	Scott Adsit	Pete Hornberger	ACTOR
 21220	ts12724	Judah Friedlander	Frank Rossitano	ACTOR
 2324	ts12724	Jane Krakowski	Jenna Maroney	ACTOR
-89928	ts12724	Keith Powell	"James ""Toofer"" Spurlock"	ACTOR
+89928	ts12724	Keith Powell	James "Toofer" Spurlock	ACTOR
 51395	ts12724	Kevin Brown	Dot Com Slattery	ACTOR
 23088	ts12724	Grizz Chapman	Grizz Griswold	ACTOR
 16302	ts12724	Katrina Bowden	Cerie	ACTOR
@@ -4634,7 +4634,7 @@ person_id	id	name	character	role
 12795	ts8308	Alison Brie	Annie Edison	ACTOR
 19721	ts8308	Jim Rash	Dean Craig Pelton	ACTOR
 4889	ts8308	Ken Jeong	Ben Chang	ACTOR
-19063	ts8308	Paget Brewster	"Francesca ""Frankie"" Dart"	ACTOR
+19063	ts8308	Paget Brewster	Francesca "Frankie" Dart	ACTOR
 5198	ts8308	Keith David	Elroy Patashnik	ACTOR
 1641	tm111828	Leonardo DiCaprio	Frank Abagnale Jr.	ACTOR
 2718	tm111828	Tom Hanks	Carl Hanratty	ACTOR
@@ -4783,7 +4783,7 @@ person_id	id	name	character	role
 4880	ts17156	Will Arnett	Gob Bluth	ACTOR
 10942	ts17156	Michael Cera	George Michael Bluth	ACTOR
 25308	ts17156	Alia Shawkat	Maeby Fünke	ACTOR
-5437	ts17156	Tony Hale	"Byron ""Buster"" Bluth"	ACTOR
+5437	ts17156	Tony Hale	Byron "Buster" Bluth	ACTOR
 1309	ts17156	David Cross	Tobias Fünke	ACTOR
 63140	ts17156	Jessica Walter	Lucille Bluth	ACTOR
 9736	ts17156	Jeffrey Tambor	George Bluth Sr.	ACTOR
@@ -4870,7 +4870,7 @@ person_id	id	name	character	role
 100181	tm150112	Candice T. Cain	College Student (uncredited)	ACTOR
 482195	tm150112	Allen Bloomfield	Airplane Ticket Buyer (uncredited)	ACTOR
 9756	tm150112	Todd Phillips		DIRECTOR
-16870	ts22337	David McCallum	"Donald ""Ducky"" Mallard"	ACTOR
+16870	ts22337	David McCallum	Donald "Ducky" Mallard	ACTOR
 21033	ts3371	Zach Tyler	Aang (voice)	ACTOR
 1114	ts3371	Mae Whitman	Katara (voice)	ACTOR
 15491	ts3371	Jack De Sena	Sokka (voice)	ACTOR
@@ -4991,12 +4991,12 @@ person_id	id	name	character	role
 1725	tm92641	Christopher Nolan		DIRECTOR
 12170	ts22099	Josh Keaton	Peter Parker / Spider Man (voice)	ACTOR
 7204	tm27911	Jack Nicholson	Francis 'Frank' Costello	ACTOR
-1641	tm27911	Leonardo DiCaprio	"William ""Billy"" Costigan, Jr."	ACTOR
+1641	tm27911	Leonardo DiCaprio	William "Billy" Costigan, Jr.	ACTOR
 1698	tm27911	Matt Damon	Staff Sgt. Colin Sullivan	ACTOR
 1071	tm27911	Mark Wahlberg	Staff Sgt. Sean Dignam	ACTOR
 11203	tm27911	Vera Farmiga	Dr. Madolyn Madden	ACTOR
 1000	tm27911	Martin Sheen	Capt. Oliver Charles Queenan	ACTOR
-1579	tm27911	Ray Winstone	"Arnold ""Frenchy"" French"	ACTOR
+1579	tm27911	Ray Winstone	Arnold "Frenchy" French	ACTOR
 14949	tm27911	Anthony Anderson	Trooper Brown	ACTOR
 3464	tm27911	Alec Baldwin	Capt. George Ellerby	ACTOR
 6693	tm27911	Kevin Corrigan	Cousin Sean	ACTOR
@@ -5841,7 +5841,7 @@ person_id	id	name	character	role
 89528	tm133374	Brian Hollan	Jay Collis	ACTOR
 89529	tm133374	Melody Weintraub	History Teacher	ACTOR
 38212	tm133374	Sharon Conley	Investigator Granger	ACTOR
-24249	tm133374	Omar J. Dorsey	"""Big Tony"" Hamilton"	ACTOR
+24249	tm133374	Omar J. Dorsey	"Big Tony" Hamilton	ACTOR
 89531	tm133374	Paul Amadi	Steven Hamilton	ACTOR
 645696	tm133374	Irone Singleton	Alton	ACTOR
 656248	tm133374	Hampton Fluker	David	ACTOR
@@ -5885,7 +5885,7 @@ person_id	id	name	character	role
 1576837	tm133374	Tom Lemming	Himself	ACTOR
 1576863	tm133374	Houston Nutt	Himself	ACTOR
 1576678	tm133374	Ed Orgeron	Himself	ACTOR
-1576844	tm133374	"Franklin ""Pepper"" Rodgers"	Himself	ACTOR
+1576844	tm133374	Franklin "Pepper" Rodgers	Himself	ACTOR
 258796	tm133374	Nick Saban	Himself	ACTOR
 1576851	tm133374	Tommy Tuberville	Himself	ACTOR
 7026	tm133374	John Lee Hancock		DIRECTOR
@@ -6035,15 +6035,15 @@ person_id	id	name	character	role
 3781	tm101914	Melissa Leo	Alice Ward	ACTOR
 14418	tm101914	Mickey O'Keefe	Mickey O'Keefe	ACTOR
 10448	tm101914	Jack McGee	George Ward	ACTOR
-14425	tm101914	Melissa McMeekin	"""Little Alice"" Eklund"	ACTOR
-14419	tm101914	Bianca Hunter	"Cathy ""Pork"" Eklund"	ACTOR
-5236	tm101914	Erica McDermott	"Cindy ""Tar"" Eklund"	ACTOR
+14425	tm101914	Melissa McMeekin	"Little Alice" Eklund	ACTOR
+14419	tm101914	Bianca Hunter	Cathy "Pork" Eklund	ACTOR
+5236	tm101914	Erica McDermott	Cindy "Tar" Eklund	ACTOR
 607613	tm101914	Jill Quigg	Donna Eklund Jaynes	ACTOR
-14417	tm101914	Dendrie Taylor	"Gail ""Red Dog"" Eklund"	ACTOR
-638135	tm101914	Kate B. O'Brien	"Phyllis ""Beaver"" Eklund"	ACTOR
+14417	tm101914	Dendrie Taylor	Gail "Red Dog" Eklund	ACTOR
+638135	tm101914	Kate B. O'Brien	Phyllis "Beaver" Eklund	ACTOR
 14420	tm101914	Jenna Lamia	Sherri Ward	ACTOR
 71851	tm101914	Frank Renzulli	Sal Lanano	ACTOR
-1205811	tm101914	Paul Campbell	"Gary ""Boo Boo"" Giuffrida"	ACTOR
+1205811	tm101914	Paul Campbell	Gary "Boo Boo" Giuffrida	ACTOR
 14421	tm101914	Caitlin Dwyer	Kasie Ward	ACTOR
 14422	tm101914	Chanty Sok	Karen	ACTOR
 14426	tm101914	Ted Arcidi	Lou Gold	ACTOR
@@ -6103,7 +6103,7 @@ person_id	id	name	character	role
 261860	tm101914	Eric Weinstein	Micky's Friend	ACTOR
 799354	tm101914	Bo Cleary	Cop	ACTOR
 21418	tm101914	Anthony Molinari	Neary	ACTOR
-215053	tm101914	Peter Cunningham	"Mike ""Machine Gun"" Mungin"	ACTOR
+215053	tm101914	Peter Cunningham	Mike "Machine Gun" Mungin	ACTOR
 301979	tm101914	Miguel Espino	Alfonso Sanchez	ACTOR
 1360732	tm101914	Anthony 'Ace' Thomas	Castillo	ACTOR
 224898	tm101914	Brian Christensen	Drunk Guy	ACTOR
@@ -6454,10 +6454,10 @@ person_id	id	name	character	role
 2255	tm136308	Bruce Dern	Thomas	ACTOR
 16474	tm136308	Lee Tergesen	Vincent Corey	ACTOR
 14592	tm136308	Annie Corley	Donna	ACTOR
-7692	tm136308	Pruitt Taylor Vince	"Gene / Stuttering ""John"""	ACTOR
-31794	tm136308	Marco St. John	"Evan / Undercover ""John"""	ACTOR
-24359	tm136308	Marc Macaulay	"Will / Daddy ""John"""	ACTOR
-18647	tm136308	Scott Wilson	"Horton / Last ""John"""	ACTOR
+7692	tm136308	Pruitt Taylor Vince	Gene / Stuttering "John"	ACTOR
+31794	tm136308	Marco St. John	Evan / Undercover "John"	ACTOR
+24359	tm136308	Marc Macaulay	Will / Daddy "John"	ACTOR
+18647	tm136308	Scott Wilson	Horton / Last "John"	ACTOR
 32329	tm136308	Rus Blackwell	Cop	ACTOR
 20126	tm136308	Tim Ware	Chuck	ACTOR
 422113	tm136308	Stephan Jones	Lawyer	ACTOR
@@ -6662,14 +6662,14 @@ person_id	id	name	character	role
 12170	ts21544	Josh Keaton	Jack Darby	ACTOR
 7997	ts21544	Kevin Michael Richardson	Bulkhead	ACTOR
 8410	ts21544	Ernie Hudson	Agent William Fowler	ACTOR
-85693	ts21544	Andy Pessoa	"Rafael ""Raf"" Esquivel"	ACTOR
+85693	ts21544	Andy Pessoa	Rafael "Raf" Esquivel	ACTOR
 29277	ts21544	Sumalee Montano	Arcee	ACTOR
 7633	tm150260	Bill Hader	Flint Lockwood / FLDSMDFR (voice)	ACTOR
 5433	tm150260	Anna Faris	Sam Sparks (voice)	ACTOR
 11823	tm150260	James Caan	Tim Lockwood (voice)	ACTOR
 5143	tm150260	Andy Samberg	Brent McHale (voice)	ACTOR
 6570	tm150260	Bruce Campbell	Mayor Shelbourne (voice)	ACTOR
-8590	tm150260	Bobb'e J. Thompson	"Calvin ""Cal"" Devereaux (voice)"	ACTOR
+8590	tm150260	Bobb'e J. Thompson	Calvin "Cal" Devereaux (voice)	ACTOR
 13516	tm150260	Mr. T	Officer Earl Devereaux (voice)	ACTOR
 14145	tm150260	Benjamin Bratt	Manny (voice)	ACTOR
 13622	tm150260	Neil Patrick Harris	Steve the Monkey (voice)	ACTOR
@@ -6761,10 +6761,10 @@ person_id	id	name	character	role
 386769	tm79895	Olja Hrustic	Raped Inmate (uncredited)	ACTOR
 136056	tm79895	Kazu Nagahama	College Student #3 (uncredited)	ACTOR
 24568	tm79895	Rob Zombie		DIRECTOR
-395	ts12787	Jun Fukuyama	"Lelouch ""Zero"" Lamperouge (voice)"	ACTOR
+395	ts12787	Jun Fukuyama	Lelouch "Zero" Lamperouge (voice)	ACTOR
 138	ts12787	Takahiro Sakurai	Suzaku Kururugi (voice)	ACTOR
 461	ts12787	Yukana	C.C. (voice)	ACTOR
-4309	ts12787	Ami Koshimizu	"Kallen ""Stadtfeld"" Kouzuki (voice)"	ACTOR
+4309	ts12787	Ami Koshimizu	Kallen "Stadtfeld" Kouzuki (voice)	ACTOR
 8479	tm116324	Johnny Knoxville	Himself	ACTOR
 8478	tm116324	Bam Margera	Himself	ACTOR
 8480	tm116324	Steve-O	Himself	ACTOR
@@ -7318,10 +7318,10 @@ person_id	id	name	character	role
 1752363	ts32186	Ryan Drummond	Sonic the Hedgehog (voice)	ACTOR
 1876922	ts32186	David Humphrey	Shadow the Hedgehog (voice)	ACTOR
 27725	ts32186	Lani Minella	Rouge the Bat (voice)	ACTOR
-95354	ts32186	Mike Pollock	"Dr. Ivo ""Eggman"" Robotnik (voice)"	ACTOR
+95354	ts32186	Mike Pollock	Dr. Ivo "Eggman" Robotnik (voice)	ACTOR
 734030	ts32186	Scott Dreier	Knuckles the Echidna (voice)	ACTOR
-111088	ts32186	William Corkery	"Miles ""Tails"" Prower (voice)"	ACTOR
-2430669	ts32186	Corey Bringas	"Miles ""Tails"" Prower / Additional Voices (voice)"	ACTOR
+111088	ts32186	William Corkery	Miles "Tails" Prower (voice)	ACTOR
+2430669	ts32186	Corey Bringas	Miles "Tails" Prower / Additional Voices (voice)	ACTOR
 24952	ts32186	Danny Cooksey	Espio the Chameleon (voice)	ACTOR
 1971998	ts32186	Jon St. John	Big the Cat (voice)	ACTOR
 99195	ts32186	Amy Birnbaum	Cosmo the Seedrian (voice)	ACTOR
@@ -7770,7 +7770,7 @@ person_id	id	name	character	role
 1302871	tm57190	Simon Purse		DIRECTOR
 72716	ts21706	Phoebe Tonkin	Cleo Sertori	ACTOR
 72717	ts21706	Cariba Heine	Rikki Chadwick	ACTOR
-31083	ts21706	Indiana Evans	"Isabel ""Bella"" Hartley"	ACTOR
+31083	ts21706	Indiana Evans	Isabel "Bella" Hartley	ACTOR
 86134	ts21706	Luke Mitchell	Will Benjamin	ACTOR
 86132	ts21706	Burgess Abernethy	Zane Bennett	ACTOR
 18224	tm137362	Jessica Biel	Erin Hardesty	ACTOR
@@ -8096,7 +8096,7 @@ person_id	id	name	character	role
 404228	ts31514	Rachel Ware	Angel Cake (voice)	ACTOR
 730214	ts31514	Anna Jordan	Custard (voice)	ACTOR
 404229	ts31514	Samantha Triba	Ginger Snap (voice)	ACTOR
-445047	ts31514	James Street	"Huckleberry ""Huck"" Pie (voice)"	ACTOR
+445047	ts31514	James Street	Huckleberry "Huck" Pie (voice)	ACTOR
 404230	ts31514	DeJare Barfield	Orange Blossom (voice)	ACTOR
 407752	ts31514	Nils Haaland	Pupcake (voice)	ACTOR
 1852	tm78671	Samuel L. Jackson	Tom Cutler	ACTOR
@@ -9559,7 +9559,7 @@ person_id	id	name	character	role
 63662	tm73058	Shawar Ali	Shahwar	ACTOR
 63663	tm73058	Yuvika Chaudhary	Dolly	ACTOR
 62780	tm73058	Satish Shah	Partho Roy	ACTOR
-29760	tm73058	Juhi Chawla	"Self, special appearance in ""Deewangi Deewangi"" (uncredited)"	ACTOR
+29760	tm73058	Juhi Chawla	Self, special appearance in "Deewangi Deewangi" (uncredited)	ACTOR
 67977	tm73058	Javed Sheikh	Rajesh Kapoor	ACTOR
 63664	tm73058	Masood Akhtar	Old Dressman (uncredited)	ACTOR
 55476	tm73058	Hrithik Roshan	Self (uncredited)	ACTOR
@@ -9570,18 +9570,18 @@ person_id	id	name	character	role
 63661	tm73058	Subhash Ghai	Self (uncredited)	ACTOR
 6958	tm73058	Amitabh Bachchan	Self (uncredited)	ACTOR
 48003	tm73058	Akshay Kumar	Self (uncredited)	ACTOR
-63665	tm73058	Dharmendra	"Self, special appearance in ""Deewangi Deewangi""  (uncredited)"	ACTOR
-12022	tm73058	Priyanka Chopra Jonas	"Self, special appearance in ""Deewangi Deewangi""  (uncredited)"	ACTOR
-55477	tm73058	Rekha	"Self, special appearance in ""Deewangi Deewangi""  (uncredited)"	ACTOR
-45228	tm73058	Salman Khan	"Self, special appearance in ""Deewangi Deewangi""  (uncredited)"	ACTOR
-63666	tm73058	Sanjay Dutt	"Self, special appearance in ""Deewangi Deewangi""  (uncredited)"	ACTOR
-63667	tm73058	Mithun Chakraborty	"Self, special appearance in ""Deewangi Deewangi""  (uncredited)"	ACTOR
-38633	tm73058	Kajol	"Self, special appearance in ""Deewangi Deewangi""  (uncredited)"	ACTOR
-63668	tm73058	Jeetendra	"Self, special appearance in ""Deewangi Deewangi""  (uncredited)"	ACTOR
-61019	tm73058	Karisma Kapoor	"Self, special appearance in ""Deewangi Deewangi""  (uncredited)"	ACTOR
-63669	tm73058	Malaika Arora	"Self, special appearance in ""Deewangi Deewangi""  (uncredited)"	ACTOR
-53151	tm73058	Saif Ali Khan	"Self, special appearance in ""Deewangi Deewangi""  (uncredited)"	ACTOR
-45227	tm73058	Rani Mukerji	"Self, special appearance in ""Deewangi Deewangi""  (uncredited)"	ACTOR
+63665	tm73058	Dharmendra	Self, special appearance in "Deewangi Deewangi"  (uncredited)	ACTOR
+12022	tm73058	Priyanka Chopra Jonas	Self, special appearance in "Deewangi Deewangi"  (uncredited)	ACTOR
+55477	tm73058	Rekha	Self, special appearance in "Deewangi Deewangi"  (uncredited)	ACTOR
+45228	tm73058	Salman Khan	Self, special appearance in "Deewangi Deewangi"  (uncredited)	ACTOR
+63666	tm73058	Sanjay Dutt	Self, special appearance in "Deewangi Deewangi"  (uncredited)	ACTOR
+63667	tm73058	Mithun Chakraborty	Self, special appearance in "Deewangi Deewangi"  (uncredited)	ACTOR
+38633	tm73058	Kajol	Self, special appearance in "Deewangi Deewangi"  (uncredited)	ACTOR
+63668	tm73058	Jeetendra	Self, special appearance in "Deewangi Deewangi"  (uncredited)	ACTOR
+61019	tm73058	Karisma Kapoor	Self, special appearance in "Deewangi Deewangi"  (uncredited)	ACTOR
+63669	tm73058	Malaika Arora	Self, special appearance in "Deewangi Deewangi"  (uncredited)	ACTOR
+53151	tm73058	Saif Ali Khan	Self, special appearance in "Deewangi Deewangi"  (uncredited)	ACTOR
+45227	tm73058	Rani Mukerji	Self, special appearance in "Deewangi Deewangi"  (uncredited)	ACTOR
 64407	tm73058	Sunil Dutt	Appearance in song (Archive footage) (uncredited)	ACTOR
 36899	tm73058	Uday Chopra	Self	ACTOR
 65629	tm73058	Bipasha Basu	Self	ACTOR
@@ -9626,7 +9626,7 @@ person_id	id	name	character	role
 66208	tm138497	Jonathan Torrens	J-Roc	ACTOR
 66203	tm138497	Sarah Dunsworth	Sarah	ACTOR
 66204	tm138497	Barrie Dunn	Ray	ACTOR
-66207	tm138497	Tyrone Parsons	"Tyrone ""T"""	ACTOR
+66207	tm138497	Tyrone Parsons	Tyrone "T"	ACTOR
 66205	tm138497	Jeanna Harrison	Trinity	ACTOR
 67640	tm138497	Mike Clattenburg		DIRECTOR
 39514	ts20358	Rachel True	Mona Rose Thorne	ACTOR
@@ -9643,7 +9643,7 @@ person_id	id	name	character	role
 48004	tm36475	Kareena Kapoor Khan	Pooja “Poo” Sharma Raichand	ACTOR
 45227	tm36475	Rani Mukerji	Naina Kapoor	ACTOR
 63304	tm36475	Farida Jalal	Sayeeda “Daijaan / DJ” Naaz	ACTOR
-66839	tm36475	Alok Nath	"Omendra ""Om"" Sharma"	ACTOR
+66839	tm36475	Alok Nath	Omendra "Om" Sharma	ACTOR
 706371	tm36475	Parzaan Dastur	Osman Siddiqui	ACTOR
 65028	tm36475	Jugal Hansraj	Mohit Sachdev	ACTOR
 63366	tm36475	Simone Singh	Rukhsaar Naaz Siddiqui	ACTOR
@@ -9690,8 +9690,8 @@ person_id	id	name	character	role
 63670	tm144345	Farah Khan	Customer in Jenny's Restaurant	ACTOR
 63365	tm144345	Sonali Bendre	Priya (Special Appearance)	ACTOR
 63372	tm144345	Sanjay Kapoor	Abhay (Special Appearance)	ACTOR
-38633	tm144345	Kajol	"Special Appearance in ""Maahi Ve"" Song"	ACTOR
-45227	tm144345	Rani Mukerji	"Special Appearance in ""Maahi Ve"" Song (uncredited)"	ACTOR
+38633	tm144345	Kajol	Special Appearance in "Maahi Ve" Song	ACTOR
+45227	tm144345	Rani Mukerji	Special Appearance in "Maahi Ve" Song (uncredited)	ACTOR
 36899	tm144345	Uday Chopra	Special Appearance (uncredited)	ACTOR
 63375	tm144345	Nikkhil Advani		DIRECTOR
 1339	tm76835	Shahid Kapoor	Aditya Kashyap	ACTOR
@@ -9988,7 +9988,7 @@ person_id	id	name	character	role
 48486	tm72587	Aishwarya Rai Bachchan	Sujata Desai	ACTOR
 63667	tm72587	Mithun Chakraborty	Manik Dasgupta	ACTOR
 91074	tm72587	R. Madhavan	Shyam Saxena	ACTOR
-61023	tm72587	Vidya Balan	"Meenakshi ""Meenu"" Saxena"	ACTOR
+61023	tm72587	Vidya Balan	Meenakshi "Meenu" Saxena	ACTOR
 67791	tm72587	Arya Babbar	Jignesh	ACTOR
 68122	tm72587	Mallika Sherawat	Champa	ACTOR
 148486	tm72587	Prathap Pothan	K R Menon I.A.S.	ACTOR
@@ -10012,7 +10012,7 @@ person_id	id	name	character	role
 61017	tm83175	Katrina Kaif	Sanjana Shetty	ACTOR
 5410	tm83175	Anil Kapoor	Majnu Bhai	ACTOR
 68928	tm83175	Nana Patekar	Uday Shetty	ACTOR
-70308	tm83175	Feroz Khan	"Ranvir Dhanraj Xaja ""RDX"""	ACTOR
+70308	tm83175	Feroz Khan	Ranvir Dhanraj Xaja "RDX"	ACTOR
 69034	tm83175	Paresh Rawal	Dr. Ghungroo	ACTOR
 68122	tm83175	Mallika Sherawat	Isha-Ishika	ACTOR
 63669	tm83175	Malaika Arora	Item Number In Song Hoth Rasiley	ACTOR
@@ -10271,7 +10271,7 @@ person_id	id	name	character	role
 88330	tm93612	Masakazu Morita	Ichigo Kurosaki (voice)	ACTOR
 35983	tm93612	Fumiko Orikasa	Rukia Kuchiki (voice)	ACTOR
 3978	tm93612	Noriaki Sugiyama	Uryū Ishida (voice)	ACTOR
-35876	tm93612	Hiroki Yasumoto	"Yasutora ""Chad"" Sado (voice)"	ACTOR
+35876	tm93612	Hiroki Yasumoto	Yasutora "Chad" Sado (voice)	ACTOR
 60635	tm93612	Yuki Matsuoka	Orihime Inoue (voice)	ACTOR
 123541	tm93612	Ryotaro Okiayu	Byakuya Kuchiki (voice)	ACTOR
 57654	tm93612	Kentaro Ito	Renji Abarai (voice)	ACTOR
@@ -10831,7 +10831,7 @@ person_id	id	name	character	role
 1320883	ts34414	María Cecilia Botero	Antonia Mancera de Ferreira	ACTOR
 489835	ts34414	Hugo Gómez	Leónidas Galindo	ACTOR
 930856	ts34414	Herbert King	Hugo Castro	ACTOR
-2319209	ts34414	Mauricio Vélez	"Fidel Ernesto Peláez Ortiz ""El Gordo"""	ACTOR
+2319209	ts34414	Mauricio Vélez	Fidel Ernesto Peláez Ortiz "El Gordo"	ACTOR
 736839	ts34414	Diana Neira	Ingrid Peláez Ortiz	ACTOR
 2319050	ts34414	Isabel Cristina Estrada	Lizeth Tatiana Rubio	ACTOR
 2027893	ts34414	Rosemary Bohórquez	Maritza Juliana Buenahora	ACTOR
@@ -11143,7 +11143,7 @@ person_id	id	name	character	role
 891373	tm80455	Jogi Malang	Fauji	ACTOR
 252950	tm80455	Navdeep Singh		DIRECTOR
 61013	tm184732	Aamir Khan	Arun	ACTOR
-249969	tm184732	Prateik Babbar	"Zohaib ""Munna"" Shaikh"	ACTOR
+249969	tm184732	Prateik Babbar	Zohaib "Munna" Shaikh	ACTOR
 246674	tm184732	Monica Dogra	Shai Edulji	ACTOR
 341776	tm184732	Kriti Malhotra	Yasmin Noor	ACTOR
 724830	tm184732	Danish Husain	Salim	ACTOR
@@ -11243,7 +11243,7 @@ person_id	id	name	character	role
 57762	tm96168	Kangana Ranaut	Rehana Shergill	ACTOR
 66875	tm96168	Prachi Desai	Mumtaz	ACTOR
 53152	tm96168	Randeep Hooda	Agnel Wilson	ACTOR
-65749	tm96168	Gauahar Khan	"Special Appearance in ""Parda"" Song"	ACTOR
+65749	tm96168	Gauahar Khan	Special Appearance in "Parda" Song	ACTOR
 69739	tm96168	Naved Aslam	Patrick, Sultan's henchman	ACTOR
 52766	tm96168	Asif Basra	Hussain Khan	ACTOR
 191147	tm96168	Avtar Gill	Jeet Kumar Rathi	ACTOR
@@ -11340,19 +11340,19 @@ person_id	id	name	character	role
 143211	tm170169	Kushal Punjabi	Sajid	ACTOR
 70167	tm170169	Vineet Sharma	Bagga	ACTOR
 143213	tm170169	Soham Shah		DIRECTOR
-63457	tm84316	Vivek Oberoi	"Mahindra ""Maya"" Dolas"	ACTOR
+63457	tm84316	Vivek Oberoi	Mahindra "Maya" Dolas	ACTOR
 63666	tm84316	Sanjay Dutt	Shamsher Khan	ACTOR
 64404	tm84316	Suniel Shetty	Inspector Kaviraj Patil	ACTOR
 68636	tm84316	Tusshar Kapoor	Dilip Buwa	ACTOR
 64509	tm84316	Arbaaz Khan	Javed Shaikh	ACTOR
-230656	tm84316	Rohit Roy	"Fatim ""Fattoo"""	ACTOR
+230656	tm84316	Rohit Roy	Fatim "Fattoo"	ACTOR
 164922	tm84316	Shabbir Ahluwalia	RC	ACTOR
 67165	tm84316	Dia Mirza	Meeta Mattoo	ACTOR
 209817	tm84316	Aditya Lakhia	Doubling	ACTOR
 68477	tm84316	Neha Dhupia	Rohini	ACTOR
 401871	tm84316	Ravi Gossain	Aslam Kesai	ACTOR
 65030	tm84316	Akhilendra Mishra	JCP Tripathi	ACTOR
-67043	tm84316	Aarti Chabria	"Tarrannum ""Tannu"""	ACTOR
+67043	tm84316	Aarti Chabria	Tarrannum "Tannu"	ACTOR
 69486	tm84316	Amrita Singh	Aayi	ACTOR
 172708	tm84316	Shri Vallabh Vyas	Wadhwani	ACTOR
 64405	tm84316	Rakhi Sawant	Special Appearance	ACTOR
@@ -11646,7 +11646,7 @@ person_id	id	name	character	role
 100016	ts44053	Xing Jiadong	Bai Qi	ACTOR
 332973	ts44053	Ding Hei		DIRECTOR
 55476	tm96595	Hrithik Roshan	Karan Shergill	ACTOR
-63361	tm96595	Preity Zinta	"Romila ""Romi"" Dutta"	ACTOR
+63361	tm96595	Preity Zinta	Romila "Romi" Dutta	ACTOR
 6958	tm96595	Amitabh Bachchan	Col. Sunil Damle	ACTOR
 65926	tm96595	Sushant Singh	Capt. Jalal Akbar	ACTOR
 14176	tm96595	Om Puri	Sub. Maj. Pritam Singh	ACTOR
@@ -11755,7 +11755,7 @@ person_id	id	name	character	role
 65673	tm154375	Sohail Khan	Aakash Khanna	ACTOR
 171172	tm154375	Bappi Lahiri	Victor Sir	ACTOR
 53150	tm154375	Deepika Padukone	Raina Khan (Special Appearance)	ACTOR
-63361	tm154375	Preity Zinta	"Special Appearance in ""Happening"" Song"	ACTOR
+63361	tm154375	Preity Zinta	Special Appearance in "Happening" Song	ACTOR
 67394	tm154375	Dino Morea	Sanjay (Special Appearance)	ACTOR
 171173	tm154375	Prem Soni		DIRECTOR
 1339	tm134140	Shahid Kapoor	Rajiv Mathur	ACTOR
@@ -12062,7 +12062,7 @@ person_id	id	name	character	role
 64404	tm57586	Suniel Shetty	Owais Hussain	ACTOR
 63660	tm57586	Abhishek Bachchan	Dancer / Singer	ACTOR
 524319	tm57586	Ahmed Khalil	Osama Bin Laden	ACTOR
-63660	tm57586	Abhishek Bachchan	"Special Appearance in ""Nobody Like You"" Song"	ACTOR
+63660	tm57586	Abhishek Bachchan	Special Appearance in "Nobody Like You" Song	ACTOR
 164921	tm57586	Apoorva Lakhia		DIRECTOR
 60417	ts23797	Vic Chou	Chen Zai Tian (Pi Zi)	ACTOR
 36788	ts23797	Mark Chao	Wu Ying Xiong	ACTOR
@@ -12177,7 +12177,7 @@ person_id	id	name	character	role
 68742	tm88343	Kalairani	Karthik's Mother	ACTOR
 188062	tm88343	Chaams	Groom	ACTOR
 147357	tm88343	Devan	DSP Nair	ACTOR
-189458	tm88343	Malavika	"Special Appearance in ""Ambuli Mama"" Song"	ACTOR
+189458	tm88343	Malavika	Special Appearance in "Ambuli Mama" Song	ACTOR
 45444	tm88343	Rohini	Shenbagam (voice)	ACTOR
 455872	tm88343	Sasi Shankar		DIRECTOR
 351823	ts23353	Elvin Ng		ACTOR
@@ -12200,20 +12200,20 @@ person_id	id	name	character	role
 65263	tm46867	Nayanthara	Nayantara	ACTOR
 145786	tm46867	Pasupathy Masilamani	Balakrishnan	ACTOR
 68294	tm46867	Meena	Sreedevi	ACTOR
-145787	tm46867	Vadivelu	"""Saloon Kadai"" Shanmugam"	ACTOR
+145787	tm46867	Vadivelu	"Saloon Kadai" Shanmugam	ACTOR
 133071	tm46867	Livingston	Kuppusamy	ACTOR
-65266	tm46867	Santhanam	"""Nagercoil"" Nagaraj"	ACTOR
+65266	tm46867	Santhanam	"Nagercoil" Nagaraj	ACTOR
 172842	tm46867	Sona Heiden	Sona	ACTOR
-67675	tm46867	Suriya	"Special Appearance in ""Cinema Cinema"" Song"	ACTOR
-124577	tm46867	Dhanush	"Special Appearance in ""Cinema Cinema"" Song"	ACTOR
-141668	tm46867	Khushboo	"Special Appearance in ""Cinema Cinema"" Song"	ACTOR
-145346	tm46867	Sneha	"Special Appearance in ""Cinema Cinema"" Song"	ACTOR
-140476	tm46867	K. Balachander	"Special Appearance in ""Cinema Cinema"" Song"	ACTOR
-65275	tm46867	G. V. Prakash Kumar	"Special Appearance in ""Cinema Cinema"" Song"	ACTOR
-172843	tm46867	P. Vasu	"Special Appearance in ""Cinema Cinema"" Song"	ACTOR
+67675	tm46867	Suriya	Special Appearance in "Cinema Cinema" Song	ACTOR
+124577	tm46867	Dhanush	Special Appearance in "Cinema Cinema" Song	ACTOR
+141668	tm46867	Khushboo	Special Appearance in "Cinema Cinema" Song	ACTOR
+145346	tm46867	Sneha	Special Appearance in "Cinema Cinema" Song	ACTOR
+140476	tm46867	K. Balachander	Special Appearance in "Cinema Cinema" Song	ACTOR
+65275	tm46867	G. V. Prakash Kumar	Special Appearance in "Cinema Cinema" Song	ACTOR
+172843	tm46867	P. Vasu	Special Appearance in "Cinema Cinema" Song	ACTOR
 61712	tm46867	Brahmanandam	Koya Dora (Extended Cameo)	ACTOR
-237883	tm46867	Soundarya Rajinikanth	"Special Appearance in ""Cinema Cinema"" Song"	ACTOR
-157775	tm46867	Suja Varunee	"Special Appearance in ""Perinba Pechchukaran"" Song"	ACTOR
+237883	tm46867	Soundarya Rajinikanth	Special Appearance in "Cinema Cinema" Song	ACTOR
+157775	tm46867	Suja Varunee	Special Appearance in "Perinba Pechchukaran" Song	ACTOR
 68735	tm46867	Prabhu	Senthilnathan (Extended Cameo)	ACTOR
 192225	tm46867	Thalapathi Dinesh		ACTOR
 146859	tm46867	Madhan Bob	Himself	ACTOR
@@ -12843,7 +12843,7 @@ person_id	id	name	character	role
 76673	tm41792	Clay Donahue Fontenot	Big Fred's Opponent	ACTOR
 77534	tm41792	Escalante Lundy	Big Fred	ACTOR
 77535	tm41792	Miriam F. Glover	Betina	ACTOR
-33639	tm41792	Don Johnson	"Spencer ""Big Daddy"" Bennett"	ACTOR
+33639	tm41792	Don Johnson	Spencer "Big Daddy" Bennett	ACTOR
 8686	tm41792	Franco Nero	Amerigo Vessepi	ACTOR
 5750	tm41792	James Russo	Dicky Speck	ACTOR
 77536	tm41792	Tom Wopat	U.S. Marshall Gill Tatum	ACTOR
@@ -13622,7 +13622,7 @@ person_id	id	name	character	role
 812871	tm36237	Cecil Brown	Auctioneer	ACTOR
 15833	tm36237	Baltasar Kormákur		DIRECTOR
 17491	tm40319	Taylor Kitsch	Chon	ACTOR
-19816	tm40319	Blake Lively	"Ophelia ""O"" Sage"	ACTOR
+19816	tm40319	Blake Lively	Ophelia "O" Sage	ACTOR
 1850	tm40319	Aaron Taylor-Johnson	Ben	ACTOR
 1509	tm40319	John Travolta	Dennis	ACTOR
 823	tm40319	Salma Hayek	Elena	ACTOR
@@ -13634,7 +13634,7 @@ person_id	id	name	character	role
 595436	tm40319	Joaquín Cosío	El Azul	ACTOR
 12440	tm40319	Jake McLaughlin	Doc/Sniper	ACTOR
 8898	tm40319	Joel David Moore	Craig	ACTOR
-5981	tm40319	Leonard Roberts	"Hayes/""O"" Security"	ACTOR
+5981	tm40319	Leonard Roberts	Hayes/"O" Security	ACTOR
 4084	tm40319	Shea Whigham	Chad	ACTOR
 862092	tm40319	Jana Banker	Volleyball Girl	ACTOR
 256867	tm40319	Candra Docherty	Grow House Girl	ACTOR
@@ -14755,7 +14755,7 @@ person_id	id	name	character	role
 399654	tm177258	Rajendra Sethi	Sudhir Adlakha	ACTOR
 13202	tm177258	Kim Bodnia	Vladimir Dragunsky	ACTOR
 402470	tm177258	Anusha Dhandekar	VJ Sophaya	ACTOR
-61013	tm177258	Aamir Khan	"Special Appearance in ""I Hate You (Like I Love You)"" Song"	ACTOR
+61013	tm177258	Aamir Khan	Special Appearance in "I Hate You (Like I Love You)" Song	ACTOR
 65751	tm177258	Abhinay Deo		DIRECTOR
 339691	tm174190	O.C. Brown	Himself	ACTOR
 339693	tm174190	Bill Courtney	Himself	ACTOR
@@ -14763,7 +14763,7 @@ person_id	id	name	character	role
 339694	tm174190	Montrail 'Money' Brown 	Himself	ACTOR
 188941	tm174190	T.J. Martin		DIRECTOR
 188939	tm174190	Daniel Lindsay		DIRECTOR
-61025	tm68436	Ranbir Kapoor	"Murphy Johnson ""Barfi"""	ACTOR
+61025	tm68436	Ranbir Kapoor	Murphy Johnson "Barfi"	ACTOR
 12022	tm68436	Priyanka Chopra Jonas	Jhilmil Chatterjee	ACTOR
 64431	tm68436	Ileana D'Cruz	Shruti Ghosh Sengupta	ACTOR
 10205	tm68436	Saurabh Shukla	Sub-Inspector Sudhanshu Dutta	ACTOR
@@ -14917,7 +14917,7 @@ person_id	id	name	character	role
 48841	tm170395	Rob Fruithof	Jean Van Brunt	ACTOR
 45850	tm170395	Nic Rasenti	Vincent Capobianco	ACTOR
 48842	tm170395	Khulu M. Skenjana	Sporo Ngoba	ACTOR
-364705	tm170395	Justin Strydom	"Vincent ""The Italian"" Masiello"	ACTOR
+364705	tm170395	Justin Strydom	Vincent "The Italian" Masiello	ACTOR
 633926	tm170395	Hlomla Dandala	Kyle Brown	ACTOR
 901558	tm170395	Justin Shaw	Martin Hoag	ACTOR
 474484	tm170395	Martin Le Maitre	Hiram Clarke	ACTOR
@@ -15074,7 +15074,7 @@ person_id	id	name	character	role
 61023	tm159593	Vidya Balan	Sabrina Lal	ACTOR
 1339969	tm159593	Myra Karn	Jessica Lall	ACTOR
 252943	tm159593	Neil Bhoopalam	Vikram Jai Singh	ACTOR
-68523	tm159593	Mohammed Zeeshan Ayyub	"Manish ""Monu"" P. Bharadwaj"	ACTOR
+68523	tm159593	Mohammed Zeeshan Ayyub	Manish "Monu" P. Bharadwaj	ACTOR
 237801	tm159593	Satyadeep Misra	Gaurav Kapoor (Meera's Boss)	ACTOR
 208441	tm159593	Yogendra Tiku	Sanjit Lal	ACTOR
 1786784	tm159593	Purnendu Bhattacharya	Nigam	ACTOR
@@ -15170,13 +15170,13 @@ person_id	id	name	character	role
 204157	tm59289	Ashok Samarth	Babu	ACTOR
 104976	tm59289	Mushtaq Khan	Baapji's Brother-in-Law	ACTOR
 26954	tm59289	Shruti Bapna	Paro's Friend in song 'Chammak Challo'	ACTOR
-320425	tm59289	Shakti Mohan	"Special Appearance in ""Chinta Ta Ta Chita Chita"" song"	ACTOR
-68639	tm59289	Maryam Zakaria	"Special Appearance in ""Chinta Ta Ta Chita Chita""  song"	ACTOR
-67405	tm59289	Mumaith Khan	"Special Appearance in ""Chinta Ta Ta Chita Chita""  song"	ACTOR
-48004	tm59289	Kareena Kapoor Khan	"Special Appearance in ""Chinta Ta Ta Chita Chita""  song"	ACTOR
-65975	tm59289	Shakti Kapoor	"Special Appearance in ""Chinta Ta Ta Chita Chita""  song"	ACTOR
-66799	tm59289	Vijay	"Special Appearance in ""Chinta Ta Ta Chita Chita""  song"	ACTOR
-64531	tm59289	Prabhu Deva	"Special Appearance in ""Chinta Ta Ta Chita Chita""  song"	ACTOR
+320425	tm59289	Shakti Mohan	Special Appearance in "Chinta Ta Ta Chita Chita" song	ACTOR
+68639	tm59289	Maryam Zakaria	Special Appearance in "Chinta Ta Ta Chita Chita"  song	ACTOR
+67405	tm59289	Mumaith Khan	Special Appearance in "Chinta Ta Ta Chita Chita"  song	ACTOR
+48004	tm59289	Kareena Kapoor Khan	Special Appearance in "Chinta Ta Ta Chita Chita"  song	ACTOR
+65975	tm59289	Shakti Kapoor	Special Appearance in "Chinta Ta Ta Chita Chita"  song	ACTOR
+66799	tm59289	Vijay	Special Appearance in "Chinta Ta Ta Chita Chita"  song	ACTOR
+64531	tm59289	Prabhu Deva	Special Appearance in "Chinta Ta Ta Chita Chita"  song	ACTOR
 919932	tm59289	Raj Arjun	Jagdish	ACTOR
 64531	tm59289	Prabhu Deva		DIRECTOR
 69034	tm47171	Paresh Rawal	Kanjibhai	ACTOR
@@ -15240,7 +15240,7 @@ person_id	id	name	character	role
 66640	tm174518	Vidya Sinha	Mrs. Rana	ACTOR
 66641	tm174518	Hazel Keech	Maya	ACTOR
 66642	tm174518	Chetan Hansraj	Mhatre	ACTOR
-61017	tm174518	Katrina Kaif	"Special Appearance in ""Bodyguard"" Song"	ACTOR
+61017	tm174518	Katrina Kaif	Special Appearance in "Bodyguard" Song	ACTOR
 66645	tm174518	Mohammad Faizan	Sartaj L. Singh	ACTOR
 66646	tm174518	Rajat Rawail	Tsunami Singh	ACTOR
 66647	tm174518	Aditya Pancholi	Vikrant Mahtre	ACTOR
@@ -15486,10 +15486,10 @@ person_id	id	name	character	role
 242842	tm53360	Mia Uyeda	Rosa	ACTOR
 184686	tm53360	Vishal Mahadkar		DIRECTOR
 127497	tm180532	Rajeev Khandelwal	Inspector Arvind Mathur	ACTOR
-68526	tm180532	Kalki Koechlin	"Amrita ""Amy"" Jayshankar"	ACTOR
-239201	tm180532	Shiv Panditt	"Dushyant ""Dash"" Sahu"	ACTOR
+68526	tm180532	Kalki Koechlin	Amrita "Amy" Jayshankar	ACTOR
+239201	tm180532	Shiv Panditt	Dushyant "Dash" Sahu	ACTOR
 252943	tm180532	Neil Bhoopalam	Zubin Shroff	ACTOR
-53951	tm180532	Gulshan Devaiah	"Karan ""K.C."" Chaudhary"	ACTOR
+53951	tm180532	Gulshan Devaiah	Karan "K.C." Chaudhary	ACTOR
 231554	tm180532	Kirti Kulhari	Tanya Sharma	ACTOR
 128295	tm180532	Rajit Kapoor	Amy's Father	ACTOR
 169168	tm180532	Rajat Barmecha	Shomu	ACTOR
@@ -15508,7 +15508,7 @@ person_id	id	name	character	role
 131861	tm34142	Madhu Shalini	Naseer	ACTOR
 128103	tm34142	Neeraj Vora	Lalchand and Valchand	ACTOR
 68498	tm34142	Abhimanyu Singh	D.K.	ACTOR
-211327	tm34142	Nathalia Kaur	"Special Appearance in ""Dan Dan"" Song"	ACTOR
+211327	tm34142	Nathalia Kaur	Special Appearance in "Dan Dan" Song	ACTOR
 66427	tm34142	Vijay Raaz	Sawatya	ACTOR
 57119	tm34142	Ram Gopal Varma		DIRECTOR
 85566	ts27875	Alina Kukushkina		ACTOR
@@ -15779,8 +15779,8 @@ person_id	id	name	character	role
 85139	ts20824	Riley Voelkel	Freya Mikaelson	ACTOR
 84052	ts20824	Yusuf Gatewood	Vincent Griffith	ACTOR
 6093	ts20824	Danielle Rose Russell	Hope Mikaelson	ACTOR
-78715	ts20824	Steven Krueger	"Joshua ""Josh"" Rosza"	ACTOR
-1848	ts1639	James Spader	"Raymond ""Red"" Reddington"	ACTOR
+78715	ts20824	Steven Krueger	Joshua "Josh" Rosza	ACTOR
+1848	ts1639	James Spader	Raymond "Red" Reddington	ACTOR
 589505	ts1639	Diego Klattenhoff	Donald Ressler	ACTOR
 53289	ts1639	Hisham Tawfiq	Dembe Zuma	ACTOR
 15311	ts1639	Harry Lennix	Harold Cooper	ACTOR
@@ -16207,14 +16207,14 @@ person_id	id	name	character	role
 294673	tm160621	Arnell Powell	Reporter	ACTOR
 2115346	tm160621	Tony Spera	Man in Audience (uncredited)	ACTOR
 2709	tm160621	James Wan		DIRECTOR
-83220	ts20292	Ben McKenzie	"James ""Jim"" Gordon"	ACTOR
+83220	ts20292	Ben McKenzie	James "Jim" Gordon	ACTOR
 10698	ts20292	Donal Logue	Harvey Bullock	ACTOR
 62266	ts20292	David Mazouz	Bruce Wayne / 514A / Batman	ACTOR
 11269	ts20292	Sean Pertwee	Alfred Pennyworth	ACTOR
 589182	ts20292	Robin Lord Taylor	Oswald Cobblepot / The Penguin	ACTOR
 85296	ts20292	Erin Richards	Barbara Kean	ACTOR
 46256	ts20292	Camren Bicondova	Selina Kyle / Cat	ACTOR
-77492	ts20292	Cory Michael Smith	"Edward ""Ed"" Nygma / The Riddler"	ACTOR
+77492	ts20292	Cory Michael Smith	Edward "Ed" Nygma / The Riddler	ACTOR
 6887	tm134967	Jay Baruchel	Hiccup (voice)	ACTOR
 2859	tm134967	Cate Blanchett	Valka (voice)	ACTOR
 6888	tm134967	Gerard Butler	Stoick (voice)	ACTOR
@@ -16796,7 +16796,7 @@ person_id	id	name	character	role
 11436	ts35682	Jacqueline Brennan	Linda Miles	ACTOR
 123320	ts35682	David de Lautour	Dr. Greg Miller	ACTOR
 102104	ts35682	Pamela Rabe	Joan Ferguson	ACTOR
-123474	ts35682	Katrina Milosevic	"Sue ""Boomer"" Jenkins"	ACTOR
+123474	ts35682	Katrina Milosevic	Sue "Boomer" Jenkins	ACTOR
 40201	ts35682	Leah Purcell	Rita Connors	ACTOR
 9195	ts35682	Rarriwuy Hick	Ruby Mitchell	ACTOR
 589386	ts35682	Susie Porter	Marie Winter	ACTOR
@@ -16824,7 +16824,7 @@ person_id	id	name	character	role
 85027	ts20791	Anastasia Baranova	Addy Carver	ACTOR
 85030	ts20791	Nat Zang	10K	ACTOR
 10575	ts20791	Russell Hodgkinson	Doc	ACTOR
-1060268	ts20791	Katy O'Brian	"Georgia ""George"" St. Clair"	ACTOR
+1060268	ts20791	Katy O'Brian	Georgia "George" St. Clair	ACTOR
 31746	ts20791	Gracie Gillam	Sgt. Lilley	ACTOR
 22560	ts20791	DJ Qualls	Citizen Z	ACTOR
 632885	ts20791	Ramona Young	Kaya	ACTOR
@@ -17205,7 +17205,7 @@ person_id	id	name	character	role
 7111	tm141648	Ben Barnes	Tom Ward	ACTOR
 3019	tm141648	Alicia Vikander	Alice Deane	ACTOR
 8861	tm141648	John DeSantis	Tusk - Zanna	ACTOR
-7112	tm141648	Kit Harington	"William ""Billy"" Bradley"	ACTOR
+7112	tm141648	Kit Harington	William "Billy" Bradley	ACTOR
 1473	tm141648	Djimon Hounsou	Radu	ACTOR
 7113	tm141648	Olivia Williams	Mam Ward	ACTOR
 3274	tm141648	Antje Traue	Bony Lizzie	ACTOR
@@ -18232,7 +18232,7 @@ person_id	id	name	character	role
 803242	ts154625	Nicolas Martinez	Gregory	ACTOR
 56754	ts154625	Ziad Doueiri		DIRECTOR
 1821552	ts37187	Carolina Miranda	Vicenta Rigores / Vicenta Acero	ACTOR
-871952	ts37187	Oscar Priego	"Erick ""El Gallo"" Quintanilla"	ACTOR
+871952	ts37187	Oscar Priego	Erick "El Gallo" Quintanilla	ACTOR
 644481	ts37187	Michel Duval	Salvador Acero	ACTOR
 160422	ts37187	Alberto Agnesi	Marcelo Dóriga	ACTOR
 46522	ts37187	Blanca Soto	Sara Aguilar	ACTOR
@@ -18374,7 +18374,7 @@ person_id	id	name	character	role
 12434	tm143757	Scot Armstrong		DIRECTOR
 123589	ts35628	Kolton Stewart	Jarvis Raines	ACTOR
 710556	ts35628	Charlie Storwick	Piper Gray	ACTOR
-49268	ts35628	Dylan Playfair	"Malcolm ""Knox"" Knoxford III"	ACTOR
+49268	ts35628	Dylan Playfair	Malcolm "Knox" Knoxford III	ACTOR
 56732	ts35628	Harrison Houde	Bowie Sherman	ACTOR
 685851	ts35628	Sydney Scotia	Geneva Hayes	ACTOR
 16257	ts35628	Ellie Harvie	Candace Wheeler	ACTOR
@@ -18853,12 +18853,12 @@ person_id	id	name	character	role
 1938908	tm158302	Shrikant Varma	Master ji	ACTOR
 61016	tm158302	Ranvir Shorey	Cameo	ACTOR
 74173	tm158302	Rajat Kapoor		DIRECTOR
-84405	tm182322	Sushant Singh Rajput	"Ishaan ""Ish"" Bhatt"	ACTOR
-65499	tm182322	Rajkummar Rao	"Govind ""Govi"" Patel"	ACTOR
-177273	tm182322	Amit Sadh	"Omkar ""Omi"" Shastri"	ACTOR
+84405	tm182322	Sushant Singh Rajput	Ishaan "Ish" Bhatt	ACTOR
+65499	tm182322	Rajkummar Rao	Govind "Govi" Patel	ACTOR
+177273	tm182322	Amit Sadh	Omkar "Omi" Shastri	ACTOR
 177272	tm182322	Amrita Puri	Vidya Bhatt	ACTOR
 52766	tm182322	Asif Basra	Nasir Hashmi	ACTOR
-233828	tm182322	Manav Kaul	"Bishakh ""Bittu"" Joshi"	ACTOR
+233828	tm182322	Manav Kaul	Bishakh "Bittu" Joshi	ACTOR
 600008	tm182322	Tahir Raj Bhasin	Special Appearance as Adult Ali	ACTOR
 147614	tm182322	Ajay Jadeja	Cricket Commentator	ACTOR
 172569	tm182322	Abhishek Kapoor		DIRECTOR
@@ -18982,8 +18982,8 @@ person_id	id	name	character	role
 41114	tm149747	Javier Escobar	El Mapache	ACTOR
 27	tm149747	Sophie Alexander-Katz	Reportera Guapa	ACTOR
 56700	tm149747	Luis Estrada		DIRECTOR
-171013	tm159819	Kim Chiu	"Raquelita ""Rocky"" Dela Cruz"	ACTOR
-183904	tm159819	Xian Lim	"Roderico ""Rocco"" Espiritu Jr."	ACTOR
+171013	tm159819	Kim Chiu	Raquelita "Rocky" Dela Cruz	ACTOR
+183904	tm159819	Xian Lim	Roderico "Rocco" Espiritu Jr.	ACTOR
 140365	tm159819	Empoy Marquez	Javier Jakobsen	ACTOR
 159427	tm159819	Martin del Rosario	Mik Antonio	ACTOR
 145646	tm159819	Pilita Corrales	Lala Avelina Corazon	ACTOR
@@ -19103,7 +19103,7 @@ person_id	id	name	character	role
 135969	tm176481	Kamini Kaushal	Rahul's grandmother	ACTOR
 144388	tm176481	Lekh Tandon	Rahul's grandfather	ACTOR
 881267	tm176481	Rakesh Kukreti	Rahul's friend	ACTOR
-146291	tm176481	Priyamani	"Special Appearance in  ""1 2 3 4 Get on the Dance Floor"" Song"	ACTOR
+146291	tm176481	Priyamani	Special Appearance in  "1 2 3 4 Get on the Dance Floor" Song	ACTOR
 68740	tm176481	Delhi Ganesh	Villager	ACTOR
 158590	tm176481	Mohan Raman	Temple priest	ACTOR
 138710	tm176481	Yogi Babu	Sri Lankan Smuggler	ACTOR
@@ -19215,7 +19215,7 @@ person_id	id	name	character	role
 10211	tm143299	Mahesh Manjrekar	B.R. Dayal	ACTOR
 66768	tm143299	Kader Khan	Suneel	ACTOR
 672479	tm143299	Rachel White	Nikhil's Girlfriend	ACTOR
-56782	tm143299	Shraddha Kapoor	"Special Appearance in ""Dance Basanti"" Song"	ACTOR
+56782	tm143299	Shraddha Kapoor	Special Appearance in "Dance Basanti" Song	ACTOR
 1037000	tm143299	Rajiv Kachroo	Inspector Kadam	ACTOR
 140623	tm143299	Renzil D'Silva		DIRECTOR
 55146	tm182227	Marc Maron	Himself	ACTOR
@@ -19364,7 +19364,7 @@ person_id	id	name	character	role
 253035	tm145658	Alex Gonzaga		ACTOR
 138531	tm145658	Richard Yap		ACTOR
 241951	tm145658	Tom Rodriguez		ACTOR
-183907	tm145658	"James ""Bimby"" Aquino-Yap"		ACTOR
+183907	tm145658	James "Bimby" Aquino-Yap		ACTOR
 133783	tm145658	Ricky Rivero	Bigboy Carnate	ACTOR
 178999	tm145658	Nikki Valdez	Lucrecia Garcia	ACTOR
 169550	tm145658	Vandolph	Buhawi Manay	ACTOR
@@ -19681,7 +19681,7 @@ person_id	id	name	character	role
 65085	tm177224	Nizhalgal Ravi	Sriram Venkat's Father	ACTOR
 65086	tm177224	Kalyani Natarajan	Sriram Venkat's Sister in Law	ACTOR
 56782	tm177224	Shraddha Kapoor	Vasudha (Guest Appearance)	ACTOR
-65087	tm177224	Esha Gupta	"Special Appearance in ""Dhat Teri Ki"" Song"	ACTOR
+65087	tm177224	Esha Gupta	Special Appearance in "Dhat Teri Ki" Song	ACTOR
 65088	tm177224	Punit Malhotra		DIRECTOR
 112620	tm187118	Gurmmeet Singh		DIRECTOR
 678884	tm577690	Segun Arinze	Diokpa Okonkwo	ACTOR
@@ -19835,10 +19835,10 @@ person_id	id	name	character	role
 419159	tm171891	Anil Dhawan	Savitri's Husband	ACTOR
 64747	tm171891	Ritesh Deshmukh	Real Ravi (Special Appearance)	ACTOR
 66830	tm171891	Chunky Pandey	Michael Jaikishan (Special Appearance)	ACTOR
-65927	tm171891	Surveen Chawla	"Special Appearance in ""Dhoka Dhoka"" Song"	ACTOR
-255623	tm171891	Amruta Khanvilkar	"Special Appearance in ""Dhoka Dhoka"" Song"	ACTOR
-918609	tm171891	Sayantani Ghosh	"Special Appearance in ""Dhoka Dhoka"" Song"	ACTOR
-64508	tm171891	Sonakshi Sinha	"Special Appearance in ""Thank God It's Friday"" Song"	ACTOR
+65927	tm171891	Surveen Chawla	Special Appearance in "Dhoka Dhoka" Song	ACTOR
+255623	tm171891	Amruta Khanvilkar	Special Appearance in "Dhoka Dhoka" Song	ACTOR
+918609	tm171891	Sayantani Ghosh	Special Appearance in "Dhoka Dhoka" Song	ACTOR
+64508	tm171891	Sonakshi Sinha	Special Appearance in "Thank God It's Friday" Song	ACTOR
 64414	tm171891	Sajid Khan		DIRECTOR
 74174	tm176900	Siddharth	Kumar	ACTOR
 67249	tm176900	Hansika Motwani	Sanjana	ACTOR
@@ -20410,7 +20410,7 @@ person_id	id	name	character	role
 13651	ts36147	Lauren German	Chloe Decker	ACTOR
 45111	ts36147	Kevin Alejandro	Dan Espinoza	ACTOR
 77897	ts36147	D.B. Woodside	Amenadiel	ACTOR
-45147	ts36147	Lesley-Ann Brandt	"Mazikeen ""Maze"""	ACTOR
+45147	ts36147	Lesley-Ann Brandt	Mazikeen "Maze"	ACTOR
 8643	ts36147	Aimee Garcia	Ella Lopez	ACTOR
 13237	ts36147	Rachael Harris	Linda Martin	ACTOR
 75963	ts36147	Brianna Hildebrand	Rory	ACTOR
@@ -20625,7 +20625,7 @@ person_id	id	name	character	role
 2266	tm138905	Quentin Tarantino	Narrator (voice) (uncredited)	ACTOR
 2266	tm138905	Quentin Tarantino		DIRECTOR
 1471	ts38199	Olivia Taylor Dudley	Alice Quinn	ACTOR
-67409	ts38199	Arjun Gupta	"William ""Penny"" Adiyodi"	ACTOR
+67409	ts38199	Arjun Gupta	William "Penny" Adiyodi	ACTOR
 49613	ts38199	Stella Maeve	Julia Wicker	ACTOR
 88991	ts38199	Jade Tailor	Kady Orloff-Diaz	ACTOR
 139280	ts38199	Hale Appleman	Eliot Waugh	ACTOR
@@ -20678,7 +20678,7 @@ person_id	id	name	character	role
 192584	ts53664	Netta Garti	Gali Kavillio	ACTOR
 803392	ts53664	Doron Ben-David	Hertzel 'Steve' Pinto	ACTOR
 144508	ts53664	Rona-Lee Shim'on	Nurit	ACTOR
-368009	ts53664	Itzik Cohen	"Gabi ""Captain Eyov"""	ACTOR
+368009	ts53664	Itzik Cohen	Gabi "Captain Eyov"	ACTOR
 870681	ts53664	Boaz Konforty	Avichay	ACTOR
 628447	ts53664	Yaakov Zada Daniel	Eli	ACTOR
 2841	ts37866	Camille Cottin	Andréa Martel	ACTOR
@@ -20907,7 +20907,7 @@ person_id	id	name	character	role
 106575	tm120609	Ian Blackman	Cuddahy	ACTOR
 36888	tm120609	Geoffrey Cantor	Sid Siegelstein	ACTOR
 19963	tm120609	Christopher Lambert	Arne Seslum	ACTOR
-40897	tm120609	Robert Trebor	"Producer of ""Hail, Caesar!"""	ACTOR
+40897	tm120609	Robert Trebor	Producer of "Hail, Caesar!"	ACTOR
 29729	tm120609	Michael Yama	Chinese Restaurant Maître D'	ACTOR
 40892	tm120609	Ming Zhao	Chinese Restaurant Waitress	ACTOR
 40896	tm120609	Helen Siff	Malibu Maid	ACTOR
@@ -20979,7 +20979,7 @@ person_id	id	name	character	role
 33094	ts35554	Keke Palmer	Kym	ACTOR
 776819	ts35554	Giorgia Whigham	Beth	ACTOR
 79924	ts35554	Tyga	Jamal	ACTOR
-28920	ts21981	Rose McIver	"Olivia ""Liv"" Moore"	ACTOR
+28920	ts21981	Rose McIver	Olivia "Liv" Moore	ACTOR
 36740	ts21981	David Anders	Blaine DeBeers	ACTOR
 73252	ts21981	Robert Buckley	Major Lilywhite	ACTOR
 6438	ts21981	Malcolm Goodwin	Clive Babinaux	ACTOR
@@ -21728,7 +21728,7 @@ person_id	id	name	character	role
 271003	ts42169	You Taichi	Kenya Kobayashi (voice)	ACTOR
 271004	ts42169	Ayaka Nanase	Osamu (voice)	ACTOR
 271005	ts42169	Yukitoshi Kikuchi	Kazu (voice)	ACTOR
-123	ts42169	Takahiro Mizushima	"Jun ""Yuuki"" Shiratori"	ACTOR
+123	ts42169	Takahiro Mizushima	Jun "Yuuki" Shiratori	ACTOR
 96475	ts42169	Mitsuru Miyamoto	Gaku Yashiro (voice)	ACTOR
 270999	ts42169	Akari Kito	Hiromi Sugati (voice)	ACTOR
 15865	tm199700	Eddie Redmayne	Einar Wegener / Lili Elbe	ACTOR
@@ -21839,7 +21839,7 @@ person_id	id	name	character	role
 126419	ts53099	Janne Virtanen	Robert Degerman	ACTOR
 1355041	ts53099	Netta Laurenne	Venla Korhonen	ACTOR
 12577	tm134791	Shelley Hennig	Blaire Lilly	ACTOR
-39293	tm134791	Heather Sossaman	"Laura Barns ""billie227"""	ACTOR
+39293	tm134791	Heather Sossaman	Laura Barns "billie227"	ACTOR
 9141	tm134791	Renee Olstead	Jess Felton	ACTOR
 83008	tm134791	Matthew Bohrer	Matt	ACTOR
 83004	tm134791	Moses Storm	Mitch Roussel	ACTOR
@@ -22667,7 +22667,7 @@ person_id	id	name	character	role
 4316	ts42137	Bex Taylor-Klaus	Pidge Gunderson / Katie Holt (voice)	ACTOR
 12553	ts42137	Steven Yeun	Keith (voice)	ACTOR
 11403	ts42137	Rhys Darby	Coran (voice)	ACTOR
-12170	ts42137	Josh Keaton	"Takashi ""Shiro"" Shirohane (voice)"	ACTOR
+12170	ts42137	Josh Keaton	Takashi "Shiro" Shirohane (voice)	ACTOR
 25159	ts42137	Kimberly Brooks	Princess Allura (voice)	ACTOR
 235567	ts42137	Neil Kaplan	Emperor Zarkon (voice)	ACTOR
 25157	ts42137	Cree Summer	Witch Haggar (voice)	ACTOR
@@ -23655,7 +23655,7 @@ person_id	id	name	character	role
 53471	tm238748	Greg McLean		DIRECTOR
 62279	ts42127	Harry Enfield	Prince Charles	ACTOR
 114736	ts42127	Haydn Gwynne	Camilla, Duchess of Cornwall	ACTOR
-19155	ts42127	Hugh Skinner	"Prince ""Wills"" William"	ACTOR
+19155	ts42127	Hugh Skinner	Prince "Wills" William	ACTOR
 114247	ts42127	Morgana Robinson	Pippa	ACTOR
 74272	ts42127	Katy Wix	Fergie	ACTOR
 205275	ts42127	Tom Durant-Pritchard	Prince Harry	ACTOR
@@ -24798,7 +24798,7 @@ person_id	id	name	character	role
 769829	ts74929	Tian Xiao Zhang		DIRECTOR
 47505	tm300713	Akira	Kohaku	ACTOR
 73235	tm300713	Takanori Iwata	Cobra	ACTOR
-461398	tm300713	Kanta Sato	"Kurosaki Teppei ""Tettsu"""	ACTOR
+461398	tm300713	Kanta Sato	Kurosaki Teppei "Tettsu"	ACTOR
 845008	tm300713	Taiki Sato	Kataoka Chiharu	ACTOR
 667981	tm300713	Kenjiro Yamashita	Dan Kazuya	ACTOR
 206905	tm300713	Keita Machida	Harada Noboru	ACTOR
@@ -25044,7 +25044,7 @@ person_id	id	name	character	role
 383752	tm208628	Dolly Minhas	Naina Lalit Sood	ACTOR
 66027	tm208628	Manoj Pahwa	Vinod Khanna	ACTOR
 1029329	tm208628	Ivan Rodrigues	Dharmapala Sr.	ACTOR
-1061191	tm208628	Vandana Sajnani	"Anjana ""Anju"" Chopra"	ACTOR
+1061191	tm208628	Vandana Sajnani	Anjana "Anju" Chopra	ACTOR
 1350	tm208628	Parmeet Sethi	Lalit Sood	ACTOR
 1164034	tm208628	K.C. Shankar	Dharmpala	ACTOR
 65974	tm208628	Shireesh Sharma 	Jamaal Hashmi	ACTOR
@@ -25160,7 +25160,7 @@ person_id	id	name	character	role
 1145616	tm208713	Manoj Chandila	Vikas Patil	ACTOR
 119833	tm208713	Ninad Kamat	Police Inspector	ACTOR
 1004048	tm208713	Saanvi Talwar	Reporter	ACTOR
-69116	tm208713	Chitrangda Singh	"Special Appearance in ""Aao Raja"" Song"	ACTOR
+69116	tm208713	Chitrangda Singh	Special Appearance in "Aao Raja" Song	ACTOR
 333390	tm208713	Jagdish Rajpurohit	Sub Inspector Yadav	ACTOR
 1037000	tm208713	Rajiv Kachroo		ACTOR
 118809	tm208713	Radha Krishna Jagarlamudi		DIRECTOR
@@ -25211,13 +25211,13 @@ person_id	id	name	character	role
 230659	ts36741	Alexander Petrov	Андрей Трофимов	ACTOR
 293410	ts36741	Fillip Gorenshtein	Борис Целлер	ACTOR
 293411	ts36741	Maksim Emelyanov	Санёк Демин	ACTOR
-279952	ts36741	Aleksey Vesyolkin	"Константин Германов (""Костыль"")"	ACTOR
+279952	ts36741	Aleksey Vesyolkin	Константин Германов ("Костыль")	ACTOR
 261178	ts36741	Zoya Berber	Надя (девушка Андрея)	ACTOR
 165889	ts36741	Taisiya Vilkova	Зина (младшая сестра Бориса)	ACTOR
-46297	ts36741	Evgeniy Stychkin	"Максим Понтонов ((""Понт"") криминальный авторитет)"	ACTOR
+46297	ts36741	Evgeniy Stychkin	Максим Понтонов (("Понт") криминальный авторитет)	ACTOR
 47899	ts36741	Aleksey Serebryakov	Георгий Михайлович Востриков (отец Нади, майор милиции)	ACTOR
 954118	ts36741	Daniel Chernish	Хашим (иностранный дипломат)	ACTOR
-147894	ts36741	Aleksandr Yatsenko	"Сережа Задорожный ((""Берём-и-едем"") таксист)"	ACTOR
+147894	ts36741	Aleksandr Yatsenko	Сережа Задорожный (("Берём-и-едем") таксист)	ACTOR
 239549	ts36741	Ekaterina Volkova	Валерия Дмитриевна Ланская (редактор журнала)	ACTOR
 266833	ts36741	Elena Antipova	Ольга Федоровна (мать Андрея)	ACTOR
 890460	ts36741	Aleksey Kiryushchenko	Валерий Павлович Германов (отец Кости, народный судья)	ACTOR
@@ -25358,7 +25358,7 @@ person_id	id	name	character	role
 55885	ts83535	Christopher Corey Smith	Voices	ACTOR
 1323855	ts83535	Olivier Derynck		DIRECTOR
 2274562	ts83535	Ram Ganapati Rao		DIRECTOR
-11748	tm221883	Dominic Purcell	"David ""Dave"" Hendrix"	ACTOR
+11748	tm221883	Dominic Purcell	David "Dave" Hendrix	ACTOR
 55050	tm221883	Cody Hackman	Brody Walker	ACTOR
 23254	tm221883	Saul Rubinek	Marty	ACTOR
 3084	tm221883	Stephen Lang	Korver	ACTOR
@@ -25408,16 +25408,16 @@ person_id	id	name	character	role
 125232	ts42218	Carmen Villalobos	Catalina Santana	ACTOR
 389396	ts42218	Carolina Gaitán	Catalina Marín	ACTOR
 1801801	ts42218	Stephania Duque	Mariana Sanín Santana	ACTOR
-740984	ts42218	Kimberly Reyes	"Yésica Beltrán ""La Diabla"" / Valeria Montes ​/ Karla Maldonado"	ACTOR
-786222	ts42218	Juan Pablo Urrego	"Hernán Darío Bayona ""Nacho"""	ACTOR
-14436	ts42218	Juan Pablo Gamboa	"Aaron Mondego ""Mano Negra"""	ACTOR
+740984	ts42218	Kimberly Reyes	Yésica Beltrán "La Diabla" / Valeria Montes ​/ Karla Maldonado	ACTOR
+786222	ts42218	Juan Pablo Urrego	Hernán Darío Bayona "Nacho"	ACTOR
+14436	ts42218	Juan Pablo Gamboa	Aaron Mondego "Mano Negra"	ACTOR
 967398	ts42218	Roberto Manrique	Santiago Sanín	ACTOR
-311388	ts42218	Francisco Bolívar	"José Luis Vargas ""Jota"""	ACTOR
-1277189	ts42218	Mauricio Cujar	"Edmundo Dorantes Borrero ""La Sombra"""	ACTOR
+311388	ts42218	Francisco Bolívar	José Luis Vargas "Jota"	ACTOR
+1277189	ts42218	Mauricio Cujar	Edmundo Dorantes Borrero "La Sombra"	ACTOR
 1797759	ts42218	Estefania Gomez	Vanessa Salazar	ACTOR
 311473	ts42218	Fabián Ríos	Albeiro Marín	ACTOR
 311470	ts42218	Catherine Siachoque	Hilda Santana	ACTOR
-311370	ts42218	Gregorio Pernía	"Aurelio Jaramillo ""El Titi"""	ACTOR
+311370	ts42218	Gregorio Pernía	Aurelio Jaramillo "El Titi"	ACTOR
 17349	tm220473	Colin Quinn	Himself	ACTOR
 56729	tm220473	Jay Chapman		DIRECTOR
 66093	tm245148	Jim Jefferies	Himself	ACTOR
@@ -25429,7 +25429,7 @@ person_id	id	name	character	role
 53951	tm197503	Gulshan Devaiah	Mandar Ponkshe	ACTOR
 67128	tm197503	Radhika Apte	Tripti Gokhale	ACTOR
 67129	tm197503	Sai Tamhankar	Jyotsna Surve	ACTOR
-67130	tm197503	Sagar Deshmukh	"Dilip ""Yusuf"" Ponkshe"	ACTOR
+67130	tm197503	Sagar Deshmukh	Dilip "Yusuf" Ponkshe	ACTOR
 712837	tm197503	Vaibhav Tatwawaadi	Kshitij	ACTOR
 725037	tm197503	Suraj Jagan	Chaxx	ACTOR
 639585	tm197503	Kiran Khoje	Kshitij's Wife	ACTOR
@@ -25768,7 +25768,7 @@ person_id	id	name	character	role
 250834	tm233570	Jovit Baldivino		ACTOR
 206969	tm233570	Ryan Bang	Jin Jhong	ACTOR
 250836	tm233570	Wilma Doesnt	Ms. Upanghet	ACTOR
-176629	tm233570	Karla Estrada	"Barbara ""Barney"" Clooney"	ACTOR
+176629	tm233570	Karla Estrada	Barbara "Barney" Clooney	ACTOR
 250837	tm233570	Lassy Marquez	Jude	ACTOR
 250838	tm233570	Jimboy Martin		ACTOR
 184332	tm233570	Badjie Mortiz	George Nicolas	ACTOR
@@ -25784,7 +25784,7 @@ person_id	id	name	character	role
 250844	tm233570	Chrome Cosio	Mark	ACTOR
 157404	tm233570	Jelson Bay		ACTOR
 250845	tm233570	Nikko Natividad		ACTOR
-143310	tm233570	Valerie Concepcion	"Editha ""Edith"" Villavicencio"	ACTOR
+143310	tm233570	Valerie Concepcion	Editha "Edith" Villavicencio	ACTOR
 250848	tm233570	Wendell Ramos	Jojo	ACTOR
 250846	tm233570	Phoemela Baranda		ACTOR
 250847	tm233570	Karen Reyes	Nurse	ACTOR
@@ -25890,13 +25890,13 @@ person_id	id	name	character	role
 64107	tm540757	Dalip Tahil	Industrialist	ACTOR
 1054248	tm540757	Bhavin Wadia		DIRECTOR
 64531	tm207668	Prabhu Deva	Vishnu	ACTOR
-38634	tm207668	Varun Dhawan	"Suresh ""Suru"" Mukund"	ACTOR
-56782	tm207668	Shraddha Kapoor	"Vinita ""Vinnie"" Sharma"	ACTOR
+38634	tm207668	Varun Dhawan	Suresh "Suru" Mukund	ACTOR
+56782	tm207668	Shraddha Kapoor	Vinita "Vinnie" Sharma	ACTOR
 164340	tm207668	Lauren Gottlieb	Olive	ACTOR
 147684	tm207668	Pooja Batra	Pooja Kohli (Special Appearance)	ACTOR
 164349	tm207668	Dharmesh Yelande	D	ACTOR
 164342	tm207668	Punit Pathak	Vinod	ACTOR
-279579	tm207668	Raghav Juyal	"Raghav ""Crocxz"" Singh"	ACTOR
+279579	tm207668	Raghav Juyal	Raghav "Crocxz" Singh	ACTOR
 111106	tm207668	Tisca Chopra	Swati	ACTOR
 253170	tm207668	Kapil Sharma	Himself	ACTOR
 339798	tm207668	Prachee Shah	Padmashree Durga Devi	ACTOR
@@ -27743,7 +27743,7 @@ person_id	id	name	character	role
 29353	ts81064	Matthew Davis	Alaric Saltzman	ACTOR
 138989	ts81064	Kaylee Bryant	Josie Saltzman	ACTOR
 274619	ts81064	Jenny Boyd	Lizzie Saltzman	ACTOR
-662367	ts81064	Quincy Fouse	"Milton ""MG"" Greasley"	ACTOR
+662367	ts81064	Quincy Fouse	Milton "MG" Greasley	ACTOR
 1159022	ts81064	Chris Lee	Kaleb Hawkins	ACTOR
 55149	ts81064	Ben Levin	Jed Tien	ACTOR
 26180	ts81064	Leo Howard	Ethan Machado	ACTOR
@@ -27800,7 +27800,7 @@ person_id	id	name	character	role
 157806	tm244259	Teresa Duran-Norvick	Teacher (uncredited)	ACTOR
 73376	tm244259	Tara Karsian	Ingrid (uncredited)	ACTOR
 3670	tm244259	Taylor Sheridan		DIRECTOR
-8925	tm310953	Lakeith Stanfield	"Cassius ""Cash"" Green"	ACTOR
+8925	tm310953	Lakeith Stanfield	Cassius "Cash" Green	ACTOR
 3161	tm310953	Tessa Thompson	Detroit	ACTOR
 104123	tm310953	Jermaine Fowler	Salvador	ACTOR
 6749	tm310953	Omari Hardwick	Mr. _______	ACTOR
@@ -28285,44 +28285,44 @@ person_id	id	name	character	role
 8740	tm266714	Megalyn Echikunwoke	Patricia Eerly	ACTOR
 54950	tm266714	Merrin Dungey	Joy Jackson	ACTOR
 23891	tm266714	Dax Shepard		DIRECTOR
-1007	tm425889	Tim Blake Nelson	"Buster Scruggs (segment ""The Ballad of Buster Scruggs"")"	ACTOR
-6206	tm425889	James Franco	"Cowboy (segment ""Near Algodones"")"	ACTOR
-21915	tm425889	Zoe Kazan	"Alice Longabaugh (segment ""The Gal Who Got Rattled"")"	ACTOR
-1750	tm425889	Liam Neeson	"Impresario (segment ""Meal Ticket"")"	ACTOR
-18496	tm425889	Tom Waits	"Prospector (segment ""All Gold Canyon"")"	ACTOR
-59975	tm425889	Tyne Daly	"Mrs. Betjeman (segment ""The Mortal Remains"")"	ACTOR
-4825	tm425889	Brendan Gleeson	"Clarence (segment ""The Mortal Remains"")"	ACTOR
-20791	tm425889	Jonjo O'Neill	"Thigpen (segment ""The Mortal Remains"")"	ACTOR
-23254	tm425889	Saul Rubinek	"René (segment ""The Mortal Remains"")"	ACTOR
-10446	tm425889	Chelcie Ross	"Trapper (segment ""The Mortal Remains"")"	ACTOR
-86246	tm425889	Bill Heck	"Billy Knapp (segment ""The Gal Who Got Rattled"")"	ACTOR
-4837	tm425889	Harry Melling	"Harrison (segment ""Meal Ticket"")"	ACTOR
-948141	tm425889	Willie Watson	"The Kid (segment ""The Ballad of Buster Scruggs"")"	ACTOR
-40888	tm425889	E.E. Bell	"Saloon Piano Player (segment ""The Ballad of Buster Scruggs"")"	ACTOR
-10958	tm425889	David Krumholtz	"Frenchman in Saloon (segment ""The Ballad of Buster Scruggs"")"	ACTOR
-22669	tm425889	Tom Proctor	"Cantina Bad Man (segment ""The Ballad of Buster Scruggs"")"	ACTOR
-2968	tm425889	Clancy Brown	"Curly Joe (segment ""The Ballad of Buster Scruggs"")"	ACTOR
-4679	tm425889	Stephen Root	"Teller (segment ""Near Algodones"")"	ACTOR
-3870	tm425889	Ralph Ineson	"The Man In Black (segment ""Near Algodones"")"	ACTOR
-74844	tm425889	Jesse Luken	"Drover (segment ""Near Algodones"")"	ACTOR
-10163	tm425889	Sam Dillon	"Young Man (segment ""All Gold Canyon"")"	ACTOR
-75925	tm425889	Grainger Hines	"Mr. Arthur (segment ""The Gal Who Got Rattled"")"	ACTOR
-431471	tm425889	Jefferson Mays	"Gilbert Longabaugh (segment ""The Gal Who Got Rattled"")"	ACTOR
-998675	tm425889	Ethan Dubin	"Matt (segment ""The Gal Who Got Rattled"")"	ACTOR
-77019	tm425889	Matthew Willig	"Hard Man #3 (segment ""The Ballad of Buster Scruggs"")"	ACTOR
-32984	tm425889	Paul Rae	"Impressario (segment ""Meal Ticket"")"	ACTOR
-2938	tm425889	Tim DeZarn	"Angry Man (segment ""The Ballad of Buster Scruggs"")"	ACTOR
-15174	tm425889	Martin Palmer	"Blubberer (segment ""Near Algodones"")"	ACTOR
-15078	tm425889	Danny McCarthy	"Ike (segment ""The Ballad of Buster Scruggs"")"	ACTOR
-24480	tm425889	Billy Lockwood	"Father (segment ""The Gal Who Got Rattled)"	ACTOR
-81054	tm425889	Jackamoe Buzzell	"Another Man (segment ""The Gal Who Got Rattled)"	ACTOR
-6122	tm425889	J. Nathan Simmons	"Gallows Watcher (segment ""The Ballad of Buster Scruggs"")"	ACTOR
-159526	tm425889	Katy Bodenhamer	"Milkmaid (segment ""The Gal Who Got Rattled)"	ACTOR
-142309	tm425889	Jiji Hise	"The Bawd (segment ""Meal Ticket"")"	ACTOR
-812005	tm425889	Austin Rising	"The Bailiff (segment ""The Ballad of Buster Scruggs"")"	ACTOR
-998673	tm425889	Stephen R. Estler	"Gambler (segment ""The Ballad of Buster Scruggs"")"	ACTOR
-998674	tm425889	Grace LeSueur	"Pretty Girl at Gallows (segment ""The Ballad of Buster Scruggs"")"	ACTOR
-279311	tm425889	Eric Petersen	"Boarder (segment ""The Gal Who Got Rattled"")"	ACTOR
+1007	tm425889	Tim Blake Nelson	Buster Scruggs (segment "The Ballad of Buster Scruggs")	ACTOR
+6206	tm425889	James Franco	Cowboy (segment "Near Algodones")	ACTOR
+21915	tm425889	Zoe Kazan	Alice Longabaugh (segment "The Gal Who Got Rattled")	ACTOR
+1750	tm425889	Liam Neeson	Impresario (segment "Meal Ticket")	ACTOR
+18496	tm425889	Tom Waits	Prospector (segment "All Gold Canyon")	ACTOR
+59975	tm425889	Tyne Daly	Mrs. Betjeman (segment "The Mortal Remains")	ACTOR
+4825	tm425889	Brendan Gleeson	Clarence (segment "The Mortal Remains")	ACTOR
+20791	tm425889	Jonjo O'Neill	Thigpen (segment "The Mortal Remains")	ACTOR
+23254	tm425889	Saul Rubinek	René (segment "The Mortal Remains")	ACTOR
+10446	tm425889	Chelcie Ross	Trapper (segment "The Mortal Remains")	ACTOR
+86246	tm425889	Bill Heck	Billy Knapp (segment "The Gal Who Got Rattled")	ACTOR
+4837	tm425889	Harry Melling	Harrison (segment "Meal Ticket")	ACTOR
+948141	tm425889	Willie Watson	The Kid (segment "The Ballad of Buster Scruggs")	ACTOR
+40888	tm425889	E.E. Bell	Saloon Piano Player (segment "The Ballad of Buster Scruggs")	ACTOR
+10958	tm425889	David Krumholtz	Frenchman in Saloon (segment "The Ballad of Buster Scruggs")	ACTOR
+22669	tm425889	Tom Proctor	Cantina Bad Man (segment "The Ballad of Buster Scruggs")	ACTOR
+2968	tm425889	Clancy Brown	Curly Joe (segment "The Ballad of Buster Scruggs")	ACTOR
+4679	tm425889	Stephen Root	Teller (segment "Near Algodones")	ACTOR
+3870	tm425889	Ralph Ineson	The Man In Black (segment "Near Algodones")	ACTOR
+74844	tm425889	Jesse Luken	Drover (segment "Near Algodones")	ACTOR
+10163	tm425889	Sam Dillon	Young Man (segment "All Gold Canyon")	ACTOR
+75925	tm425889	Grainger Hines	Mr. Arthur (segment "The Gal Who Got Rattled")	ACTOR
+431471	tm425889	Jefferson Mays	Gilbert Longabaugh (segment "The Gal Who Got Rattled")	ACTOR
+998675	tm425889	Ethan Dubin	Matt (segment "The Gal Who Got Rattled")	ACTOR
+77019	tm425889	Matthew Willig	Hard Man #3 (segment "The Ballad of Buster Scruggs")	ACTOR
+32984	tm425889	Paul Rae	Impressario (segment "Meal Ticket")	ACTOR
+2938	tm425889	Tim DeZarn	Angry Man (segment "The Ballad of Buster Scruggs")	ACTOR
+15174	tm425889	Martin Palmer	Blubberer (segment "Near Algodones")	ACTOR
+15078	tm425889	Danny McCarthy	Ike (segment "The Ballad of Buster Scruggs")	ACTOR
+24480	tm425889	Billy Lockwood	Father (segment "The Gal Who Got Rattled)	ACTOR
+81054	tm425889	Jackamoe Buzzell	Another Man (segment "The Gal Who Got Rattled)	ACTOR
+6122	tm425889	J. Nathan Simmons	Gallows Watcher (segment "The Ballad of Buster Scruggs")	ACTOR
+159526	tm425889	Katy Bodenhamer	Milkmaid (segment "The Gal Who Got Rattled)	ACTOR
+142309	tm425889	Jiji Hise	The Bawd (segment "Meal Ticket")	ACTOR
+812005	tm425889	Austin Rising	The Bailiff (segment "The Ballad of Buster Scruggs")	ACTOR
+998673	tm425889	Stephen R. Estler	Gambler (segment "The Ballad of Buster Scruggs")	ACTOR
+998674	tm425889	Grace LeSueur	Pretty Girl at Gallows (segment "The Ballad of Buster Scruggs")	ACTOR
+279311	tm425889	Eric Petersen	Boarder (segment "The Gal Who Got Rattled")	ACTOR
 2408082	tm425889	Jesse Youngblood	Cantina Scum	ACTOR
 2783	tm425889	Joel Coen		DIRECTOR
 2781	tm425889	Ethan Coen		DIRECTOR
@@ -28879,7 +28879,7 @@ person_id	id	name	character	role
 1199082	ts55798	Park Hyun-seok		DIRECTOR
 10644	tm412550	Zoey Deutch	Harper Moore	ACTOR
 6932	tm412550	Glen Powell	Charlie Young	ACTOR
-11746	tm412550	Taye Diggs	"Richard ""Rick"" Otis"	ACTOR
+11746	tm412550	Taye Diggs	Richard "Rick" Otis	ACTOR
 6986	tm412550	Lucy Liu	Kirsten Stevens	ACTOR
 417541	tm412550	Joan Smalls	Suze	ACTOR
 64138	tm412550	Meredith Hagner	Becca	ACTOR
@@ -29024,7 +29024,7 @@ person_id	id	name	character	role
 1061754	tm266666	Nailim Sanchez	Defendant (uncredited)	ACTOR
 1153746	tm266666	Brad Spiers	Police Officer (uncredited)	ACTOR
 66084	tm266666	Mike Flanagan		DIRECTOR
-649144	tm288499	Yalitza Aparicio	"Cleodegaria ""Cleo"" Gutiérrez"	ACTOR
+649144	tm288499	Yalitza Aparicio	Cleodegaria "Cleo" Gutiérrez	ACTOR
 598158	tm288499	Marina de Tavira	Sofía	ACTOR
 945203	tm288499	Diego Cortina Autrey	Toño	ACTOR
 945042	tm288499	Carlos Peralta	Paco	ACTOR
@@ -29435,7 +29435,7 @@ person_id	id	name	character	role
 30396	ts82849	Nancy Travis	Lisa	ACTOR
 7787	ts82849	Kathleen Turner	Roz	ACTOR
 184791	ts55781	Suliane Brahim	Laurene Weiss	ACTOR
-134041	ts55781	Hubert Delattre	"Martial Ferrandis ""Nounours"""	ACTOR
+134041	ts55781	Hubert Delattre	Martial Ferrandis "Nounours"	ACTOR
 36544	ts55781	Laurent Capelluto	Franck Siriani	ACTOR
 191744	ts55781	Samuel Jouy	Bertrand Steiner	ACTOR
 60092	ts55781	Renaud Rutten	Louis Hermann	ACTOR
@@ -29615,7 +29615,7 @@ person_id	id	name	character	role
 1387160	tm420348	John Rizkallah	Skater Kid (uncredited)	ACTOR
 1327252	tm420348	Daniel Goldhaber		DIRECTOR
 104776	ts77563	Jonah Ray	Jonah Heston	ACTOR
-7546	ts77563	Patton Oswalt	"Max ""Tv's Son of Tv's Frank"""	ACTOR
+7546	ts77563	Patton Oswalt	Max "Tv's Son of Tv's Frank"	ACTOR
 8874	ts76458	Pihla Viitala	Sofia Karppi	ACTOR
 118538	ts76458	Lauri Tilkanen	Sakari Nurmi	ACTOR
 191290	ts76458	Mimosa Willamo	Henna Honkasuo	ACTOR
@@ -29937,7 +29937,7 @@ person_id	id	name	character	role
 75889	tm410435	Lana Condor	Lara Jean Song Covey	ACTOR
 85471	tm410435	Noah Centineo	Peter Kavinsky	ACTOR
 37774	tm410435	Janel Parrish	Margot Song Covey	ACTOR
-705619	tm410435	Anna Cathcart	"Katherine ""Kitty"" Song Covey"	ACTOR
+705619	tm410435	Anna Cathcart	Katherine "Kitty" Song Covey	ACTOR
 58	tm410435	Andrew Bachelor	Greg Rivera	ACTOR
 716449	tm410435	Trezzo Mahoro	Lucas James	ACTOR
 657461	tm410435	Emilija Baranac	Genevieve	ACTOR
@@ -30323,7 +30323,7 @@ person_id	id	name	character	role
 811659	tm244307	John Duff	Special D	ACTOR
 8900	tm244307	Jamal Duff	Junior	ACTOR
 299217	tm244307	Craig Henningsen	Sharps	ACTOR
-1814	tm244307	Aaron V. Williamson	"Orc ""GQ"""	ACTOR
+1814	tm244307	Aaron V. Williamson	Orc "GQ"	ACTOR
 9374	tm244307	Joe Rogan	Himself	ACTOR
 9753	tm244307	Tim Sitarz	Non-Stop	ACTOR
 110816	tm244307	Luis Moncada	Casper	ACTOR
@@ -30820,7 +30820,7 @@ person_id	id	name	character	role
 139580	ts77957	Medeea Marinescu	Evelina	ACTOR
 290206	ts77957	Daniel Sandu		DIRECTOR
 90541	ts78452	Lydia Wilson	Matilda Gray	ACTOR
-32410	ts78452	Joel Fry	"Harlan ""Hal"" Fine"	ACTOR
+32410	ts78452	Joel Fry	Harlan "Hal" Fine	ACTOR
 8095	ts78452	Joanna Scanlan	Janice Gray	ACTOR
 25968	ts78452	Brendan Coyle	Stephen Kendrick	ACTOR
 589338	ts78452	Claire Rushbrook	Rose Morgan	ACTOR
@@ -31094,7 +31094,7 @@ person_id	id	name	character	role
 597852	ts85568	Julius Nitschkoff	Butsche (jung)	ACTOR
 235826	ts85568	Carlotta von Falkenhayn	Elsie	ACTOR
 51209	ts85568	Susanne Wuest	Lydia Suchanow	ACTOR
-33142	ts85568	Christian Friedel	"Daniel ""Zahnlos"" Sluiter"	ACTOR
+33142	ts85568	Christian Friedel	Daniel "Zahnlos" Sluiter	ACTOR
 22514	ts85568	Trystan Pütter	Thomas Butsche	ACTOR
 263010	ts85568	Franziska Brandmeier	Katharina	ACTOR
 44966	ts85568	Marc Hosemann	Jens Brettschneider	ACTOR
@@ -31923,7 +31923,7 @@ person_id	id	name	character	role
 1422874	tm363248	Christina Miller	Funeral Guest	ACTOR
 1423020	tm363248	Dallas Ryan	Sound Guy	ACTOR
 9733	tm363248	Ed Helms	Tom Snyder	ACTOR
-1112	tm363248	Paul Rudd	"""The Nobody"""	ACTOR
+1112	tm363248	Paul Rudd	"The Nobody"	ACTOR
 77727	tm363248	Rich Sommer	Harry Crane	ACTOR
 10958	tm363248	David Krumholtz	Time-Life Publisher	ACTOR
 88366	tm363248	Mitchell Hurwitz	Time-Life Publisher	ACTOR
@@ -31966,10 +31966,10 @@ person_id	id	name	character	role
 891522	tm420745	Cory Chetyrbok	Gas Thief Martin	ACTOR
 1078296	tm420745	Connor Peterson	Refugee (uncredited)	ACTOR
 23633	tm420745	David M. Rosenthal		DIRECTOR
-3756	tm217228	Nat Wolff	"Light Turner / ""Kira"""	ACTOR
+3756	tm217228	Nat Wolff	Light Turner / "Kira"	ACTOR
 8925	tm217228	Lakeith Stanfield	L	ACTOR
 4613	tm217228	Willem Dafoe	Ryuk (voice)	ACTOR
-32789	tm217228	Margaret Qualley	"Mia Sutton / ""Kira"""	ACTOR
+32789	tm217228	Margaret Qualley	Mia Sutton / "Kira"	ACTOR
 4084	tm217228	Shea Whigham	James Turner	ACTOR
 98771	tm217228	Paul Nakauchi	Watari	ACTOR
 659499	tm217228	Jason Liles	Ryuk	ACTOR
@@ -32049,16 +32049,16 @@ person_id	id	name	character	role
 8801	tm363103	Kevin Pollak	Himself	ACTOR
 12724	tm363103	Bob Barker	Himself	ACTOR
 58496	tm363103	C.J. Wallis		DIRECTOR
-17900	tm139885	John Huston	"J.J. ""Jake"" Hannaford"	ACTOR
+17900	tm139885	John Huston	J.J. "Jake" Hannaford	ACTOR
 596473	tm139885	Oja Kodar	The Actress	ACTOR
 18133	tm139885	Peter Bogdanovich	Brooks Otterlake	ACTOR
 53926	tm139885	Susan Strasberg	Juliette Rich	ACTOR
 57604	tm139885	Norman Foster	Billy Boyle	ACTOR
-235853	tm139885	Robert Random	"Oscar ""John"" Dale"	ACTOR
+235853	tm139885	Robert Random	Oscar "John" Dale	ACTOR
 71856	tm139885	Lilli Palmer	Zarah Valeska	ACTOR
 24127	tm139885	Edmond O'Brien	Pat Mullins	ACTOR
 14450	tm139885	Mercedes McCambridge	Maggie Noonan	ACTOR
-66990	tm139885	Cameron Mitchell	"Matt ""Zimmie"" Zimmer"	ACTOR
+66990	tm139885	Cameron Mitchell	Matt "Zimmie" Zimmer	ACTOR
 15257	tm139885	Paul Stewart	Matt Costello	ACTOR
 33174	tm139885	Gregory Sierra	Jack Simon	ACTOR
 73924	tm139885	Tonio Selwart	The Baron	ACTOR
@@ -33487,7 +33487,7 @@ person_id	id	name	character	role
 104891	ts57080	Amber Frank	Lucky Prescott (voice)	ACTOR
 78636	ts57080	Bailey Gambertoglio	Abigail Stone (voice)	ACTOR
 126155	ts57080	Sydney Park	Pru Granger (voice)	ACTOR
-35982	ts53367	Megumi Han	"Atsuko ""Akko"" Kagari (voice)"	ACTOR
+35982	ts53367	Megumi Han	Atsuko "Akko" Kagari (voice)	ACTOR
 35984	ts53367	Michiyo Murase	Sucy Manbavaran (voice)	ACTOR
 35983	ts53367	Fumiko Orikasa	Lotte Yanson (voice)	ACTOR
 35986	ts53367	Chinatsu Akasaki	Barbara Parker (voice)	ACTOR
@@ -33537,7 +33537,7 @@ person_id	id	name	character	role
 46252	tm346467	Slaine	Jazz Handler	ACTOR
 3802	tm346467	William Xifaras	Mechanic	ACTOR
 89156	tm346467	Jeffrey Samai	Ben Okri	ACTOR
-7951	tm346467	Seth Ayott	"Vinnie ""The Pig Behind the Ram"""	ACTOR
+7951	tm346467	Seth Ayott	Vinnie "The Pig Behind the Ram"	ACTOR
 2173749	tm346467	Eddie James Fernandez, Jr.	Hip Hop Punk	ACTOR
 1284699	tm346467	John Vincent Mason	Man with Jazz	ACTOR
 742037	tm346467	James Fierro	Cop Car Driver	ACTOR
@@ -34073,7 +34073,7 @@ person_id	id	name	character	role
 1218644	ts58152	Lucía Díez	Margarida Puig (niña)	ACTOR
 106297	ts58152	Hugo Arbues	Arnau Estanyol (niño)	ACTOR
 114012	ts58152	Patricia Arbúes	Mar (niña)	ACTOR
-931727	ts58152	Álvaro Villaespesa	"Joan ""Joanet"" (niño)"	ACTOR
+931727	ts58152	Álvaro Villaespesa	Joan "Joanet" (niño)	ACTOR
 2136233	ts58152	Julia Carnero	Habiba	ACTOR
 300830	ts58152	Jonás Berami	Simó	ACTOR
 9904	ts58152	Natalia de Molina	Francesca (joven)	ACTOR
@@ -35339,7 +35339,7 @@ person_id	id	name	character	role
 250448	tm420656	Lauren Rhoden	Rachel's Mom	ACTOR
 1006572	tm420656	Sarah Fultz	Becky	ACTOR
 1006573	tm420656	Brian D. Wolfe	Paramedic #1	ACTOR
-668902	tm420656	"Shepard ""Shep"" Rose"	Paramedic #2	ACTOR
+668902	tm420656	Shepard "Shep" Rose	Paramedic #2	ACTOR
 86949	tm420656	Brian Schaeffer	Paramedic #3	ACTOR
 90283	tm420656	Chick Bernhard	Officer #1	ACTOR
 44217	tm420656	Carl Anthony Nespoli	Officer #2	ACTOR
@@ -36134,7 +36134,7 @@ person_id	id	name	character	role
 1205271	tm266702	Julian Bugier	Julian Bugier, journalist from France 2	ACTOR
 1278254	tm266702	Sébastien Pruneta	Jérôme Rillert, voice reporter launched by Julian Bugier (voice)	ACTOR
 589316	tm266702	Ludovic Bernard		DIRECTOR
-1343108	tm307776	Zaira Wasim	"Insia""Insu""Malik"	ACTOR
+1343108	tm307776	Zaira Wasim	Insia"Insu"Malik	ACTOR
 61013	tm307776	Aamir Khan	Shakti Kumar	ACTOR
 249120	tm307776	Meher Vij	Najma Malik	ACTOR
 919932	tm307776	Raj Arjun	Farookh Malik	ACTOR
@@ -36440,7 +36440,7 @@ person_id	id	name	character	role
 230370	tm371952	Papri Ghosh	Sundar Ramasamy's Sister-in-Law	ACTOR
 298038	tm371952	Sivashankar Master	Election Commissioner	ACTOR
 910524	tm371952	Ashwanth Thilak	Reporter	ACTOR
-65274	tm371952	A.R. Murugadoss	"Special Appearance in  ""Oru Viral Puratchi"" Song"	ACTOR
+65274	tm371952	A.R. Murugadoss	Special Appearance in  "Oru Viral Puratchi" Song	ACTOR
 886701	tm371952	Jay Adithya	Kaushal, Sundar and Nila's nephew	ACTOR
 858168	tm371952	Elyssa Erhardt	Sundar Ramasamy's Assistant	ACTOR
 489904	tm371952	Pazha Karuppaiah	M. Masilamani	ACTOR
@@ -37509,7 +37509,7 @@ person_id	id	name	character	role
 61020	tm313712	Sridevi	Devki Sabarwal	ACTOR
 312859	tm313712	Sajal Ali	Arya	ACTOR
 668854	tm313712	Adnan Siddiqui	Anand	ACTOR
-26948	tm313712	Nawazuddin Siddiqui	"Daya Shankar ""DK"" Kapoor"	ACTOR
+26948	tm313712	Nawazuddin Siddiqui	Daya Shankar "DK" Kapoor	ACTOR
 65024	tm313712	Akshaye Khanna	Matthew Francis	ACTOR
 237800	tm313712	Adarsh Gourav	Mohit	ACTOR
 68498	tm313712	Abhimanyu Singh	Jagan	ACTOR
@@ -38122,9 +38122,9 @@ person_id	id	name	character	role
 231558	tm417317	Dhritiman Chatterjee	Nandu Don	ACTOR
 211329	tm417317	Nishikant Kamat	Rana	ACTOR
 609120	tm417317	Ashish Verma	Rajat	ACTOR
-65250	tm417317	Arjun Kapoor	"Special Appearance ""Chavanprash"" Song"	ACTOR
-206863	tm417317	Shibani Dandekar	"Special Appearance ""Chavanprash"" Song"	ACTOR
-410403	tm417317	Anusha Dandekar	"Special Appearance ""Chavanprash"" Song"	ACTOR
+65250	tm417317	Arjun Kapoor	Special Appearance "Chavanprash" Song	ACTOR
+206863	tm417317	Shibani Dandekar	Special Appearance "Chavanprash" Song	ACTOR
+410403	tm417317	Anusha Dandekar	Special Appearance "Chavanprash" Song	ACTOR
 1037000	tm417317	Rajiv Kachroo	Company Boss	ACTOR
 65822	tm417317	Vikramaditya Motwane		DIRECTOR
 27676	tm359150	Bérénice Bejo	Marie	ACTOR
@@ -38143,7 +38143,7 @@ person_id	id	name	character	role
 899270	tm359150	Jessica Blue	News Reporter	ACTOR
 50687	tm359150	Dorothée Tavernier	Ben's Sister (voice)	ACTOR
 1809996	tm359150	Alain Berlioux	Marie's Father (voice)	ACTOR
-280945	tm359150	Stéphane Grossi	"Jean-Yves, aka ""Steve Jobs"" (voice)"	ACTOR
+280945	tm359150	Stéphane Grossi	Jean-Yves, aka "Steve Jobs" (voice)	ACTOR
 224556	tm359150	Eric de Montalier	Yvan (voice)	ACTOR
 257069	tm359150	Pierre Benoist	Max Bijoux (voice)	ACTOR
 1809860	tm359150	Caroline Nolot	Carole Centrale (voice)	ACTOR
@@ -38240,7 +38240,7 @@ person_id	id	name	character	role
 12204	tm300447	Bill Burr	Himself	ACTOR
 66544	tm300447	Jay Karas		DIRECTOR
 192431	ts84484	Alyssa Edwards	Himself	ACTOR
-192432	ts84484	"D.J. ""Shangela"" Pierce"		ACTOR
+192432	ts84484	D.J. "Shangela" Pierce		ACTOR
 743462	ts75012	Moeka Hoshi	Hotaru	ACTOR
 29710	ts75012	Rila Fukushima	Minami Shirakawa	ACTOR
 94811	ts75012	Rena Matsui	Hitomi Tsukamoto	ACTOR
@@ -38889,7 +38889,7 @@ person_id	id	name	character	role
 26949	tm439854	Denzil Smith	Kishore Wadhwa	ACTOR
 998889	tm439854	Karan Singh Chhabra	Stock Exchange Reporter	ACTOR
 148078	tm439854	Manish Choudhary	Rana Dasgupta	ACTOR
-67264	tm439854	Elli Avram	"Special Appearance in ""Billionaire"" Song"	ACTOR
+67264	tm439854	Elli Avram	Special Appearance in "Billionaire" Song	ACTOR
 923287	tm439854	Gauravv K. Chawla		DIRECTOR
 65024	tm340587	Akshaye Khanna	CBI Officer Dev Sharma	ACTOR
 56781	tm340587	Sidharth Malhotra	Vikram Sethi	ACTOR
@@ -39691,7 +39691,7 @@ person_id	id	name	character	role
 38638	tm307767	Sanjay Mishra	Tikla aka Guruji	ACTOR
 104832	tm307767	Priyanshu Chatterjee	Sanjeev	ACTOR
 182886	tm307767	Sharad Kelkar	Police Inspector Durjan	ACTOR
-58600	tm307767	Sunny Leone	"Special Appearance in ""Piya More"" song"	ACTOR
+58600	tm307767	Sunny Leone	Special Appearance in "Piya More" song	ACTOR
 66876	tm307767	Milan Luthria		DIRECTOR
 263253	ts79707	Juana Viale		ACTOR
 108239	ts79707	Andrés Velencoso		ACTOR
@@ -39983,7 +39983,7 @@ person_id	id	name	character	role
 5198	ts76771	Keith David	Malcom Kane	ACTOR
 192071	ts84335	Robert Więckiewicz	inspektor Anatol Janów, oficer BBI Milicji	ACTOR
 305264	ts84335	Maciej Musiał	Kajetan Skowron	ACTOR
-240743	ts84335	Michalina Olszańska	"Ofelia ""Effy"" Ibrom"	ACTOR
+240743	ts84335	Michalina Olszańska	Ofelia "Effy" Ibrom	ACTOR
 53416	ts84335	Andrzej Chyra	Władysław Lis, ojciec Karoliny, minister gospodarki narodowej	ACTOR
 274024	ts84335	Zofia Wichłacz	Karolina Lis, dziewczyna Kajetana	ACTOR
 254533	ts84335	Agnieszka Żulewska	Maja Skowron, matka Kajetana	ACTOR
@@ -40552,7 +40552,7 @@ person_id	id	name	character	role
 61155	tm418870	Astrid Whettnall	Head of the narcotics squad	ACTOR
 56503	tm418870	Marc Barbé	Marc, narcotics squad	ACTOR
 53868	tm418870	Yann Goven	Fernandez, narcotics squad	ACTOR
-1934136	tm418870	Ahmed Benaissa	"Raji, ""godfather"" of the estate"	ACTOR
+1934136	tm418870	Ahmed Benaissa	Raji, "godfather" of the estate	ACTOR
 1297319	tm418870	Omar Salim	Nouri, Raji's man	ACTOR
 954854	tm418870	Adem Benosmane	Yacine, son of Imrane and Mounia	ACTOR
 1933549	tm418870	Noah Benzaquen	Ivan	ACTOR
@@ -40895,7 +40895,7 @@ person_id	id	name	character	role
 170285	ts84330	Arak Amornsupasiri	Artit	ACTOR
 301087	ts84330	Keerati Mahapreukpong	Khaopun	ACTOR
 761058	ts84330	Nat Sakdatorn	Muadprin	ACTOR
-991819	ts84330	Wongchayaporn Waratthaya	"Aida / ""Ai"""	ACTOR
+991819	ts84330	Wongchayaporn Waratthaya	Aida / "Ai"	ACTOR
 330616	ts84330	Wiwit Bawornkeeratikajorn	Chef Ren	ACTOR
 991821	ts84330	Top Daraneenute Pasutanavin	Aunt Poo	ACTOR
 123177	ts84330	Nuengthida Sophon	Jiew	ACTOR
@@ -41355,12 +41355,12 @@ person_id	id	name	character	role
 33892	tm299771	Gad Elmaleh	Himself	ACTOR
 617881	tm299771	Mario Rouleau		DIRECTOR
 194682	tm324806	Jay Bulger		DIRECTOR
-971794	tm436171	Rodrigo Romero	"Rodrigo ""El Potro"" Bueno"	ACTOR
-343682	tm436171	Florencia Peña	"Beatriz ""Bety"" Olave"	ACTOR
+971794	tm436171	Rodrigo Romero	Rodrigo "El Potro" Bueno	ACTOR
+343682	tm436171	Florencia Peña	Beatriz "Bety" Olave	ACTOR
 451162	tm436171	Jimena Barón	Marixa Balli	ACTOR
-301170	tm436171	Fernán Mirás	"José Luis Gozalo ""Oso"""	ACTOR
-162056	tm436171	Malena Sánchez	"Patricia ""Pato"" Pacheco"	ACTOR
-195481	tm436171	Daniel Aráoz	"Eduardo ""Pichín"" Bueno"	ACTOR
+301170	tm436171	Fernán Mirás	José Luis Gozalo "Oso"	ACTOR
+162056	tm436171	Malena Sánchez	Patricia "Pato" Pacheco	ACTOR
+195481	tm436171	Daniel Aráoz	Eduardo "Pichín" Bueno	ACTOR
 319727	tm436171	Diego Cremonesi	Ángel	ACTOR
 1438934	tm436171	Adriana Balbo	Chica sexo	ACTOR
 2032509	tm436171	María Soledad Correa	Girl in orgy	ACTOR
@@ -41615,8 +41615,8 @@ person_id	id	name	character	role
 839183	tm369433	Priyadarshi Pullikonda	Nala	ACTOR
 45444	tm369433	Rohini	Radha’s Mother	ACTOR
 67384	tm369433	Devadarshini	Parvathy	ACTOR
-116848	tm369433	Nani	"Humanitarian Fish ""Nani"" (Narrator/Voiceover only)"	ACTOR
-67248	tm369433	Ravi Teja	"Bonsai  Tree ""Chanti"" (Narrator/Voiceover only)"	ACTOR
+116848	tm369433	Nani	Humanitarian Fish "Nani" (Narrator/Voiceover only)	ACTOR
+67248	tm369433	Ravi Teja	Bonsai  Tree "Chanti" (Narrator/Voiceover only)	ACTOR
 175799	tm369433	Pragathi Mahavadi		ACTOR
 694304	tm369433	C. V. L. Narasimha Rao		ACTOR
 831580	tm369433	Prasanth Varma		DIRECTOR
@@ -42994,7 +42994,7 @@ person_id	id	name	character	role
 590250	tm367105	Jan Suter		DIRECTOR
 211560	tm367105	Raúl Campos		DIRECTOR
 836313	tm1118527	Suhas Kadav		DIRECTOR
-164740	tm307698	Liza Soberano	"Calixta ""Cali"" Ferrer"	ACTOR
+164740	tm307698	Liza Soberano	Calixta "Cali" Ferrer	ACTOR
 164739	tm307698	Enrique Gil	Gio Martinez	ACTOR
 157400	tm307698	Ara Mina	Cali's Mother	ACTOR
 58838	tm307698	Joey Marquez	Gio's Father	ACTOR
@@ -43311,7 +43311,7 @@ person_id	id	name	character	role
 286502	tm350116	Satiiysh Saarathy Sasho	Vijay	ACTOR
 1304345	tm350116	Sanghmitra Hitaishi	Manorama	ACTOR
 119706	tm350116	Shadab Khan		DIRECTOR
-8988	tm361161	Rachel Crow	"Gratuity ""Tip"" Tucci"	ACTOR
+8988	tm361161	Rachel Crow	Gratuity "Tip" Tucci	ACTOR
 269589	tm361161	Mark Whitten	Oh	ACTOR
 35807	tm361161	Ana Ortiz	Lucy Tucci	ACTOR
 259197	tm361161	Kelly Clarkson	Herself	ACTOR
@@ -43492,7 +43492,7 @@ person_id	id	name	character	role
 945037	tm429383	Chung Yeong-joon		DIRECTOR
 239037	ts55735	Ivy Shao	Wei Fen Qing (衛芬青)	ACTOR
 104419	ts55735	Wu Kang-ren	Huo Ting En	ACTOR
-1985946	ts55735	Suan Wang	"Meng Ru Xi ""Gina"""	ACTOR
+1985946	ts55735	Suan Wang	Meng Ru Xi "Gina"	ACTOR
 648704	ts55735	Lawrence Liu	Peng Xiao Bin	ACTOR
 648708	ts55735	Nylon Chen	Huo Tian Zhi	ACTOR
 922614	ts55735	Xing Li	Yang Yu Qing	ACTOR
@@ -43977,9 +43977,9 @@ person_id	id	name	character	role
 2363288	ts216746	Erik Bard	Principal Investigator	ACTOR
 20865	ts89840	Alexandra Breckenridge	Melinda Monroe	ACTOR
 17244	ts89840	Martin Henderson	Jack Sheridan	ACTOR
-23600	ts89840	Colin Lawrence	"John ""Preacher"" Middleton"	ACTOR
+23600	ts89840	Colin Lawrence	John "Preacher" Middleton	ACTOR
 687585	ts89840	Lauren Hammersley	Charmaine Roberts	ACTOR
-463	ts89840	Tim Matheson	"Vernon ""Doc"" Mullins"	ACTOR
+463	ts89840	Tim Matheson	Vernon "Doc" Mullins	ACTOR
 51859	ts89840	Benjamin Hollingsworth	Dan Brady	ACTOR
 1690	tm441050	Matthew McConaughey	Mickey Pearson	ACTOR
 8013	tm441050	Charlie Hunnam	Raymond	ACTOR
@@ -45615,10 +45615,10 @@ person_id	id	name	character	role
 2139166	tm460948	Tana Yu	Dim Sum Worker #	ACTOR
 2139050	tm460948	Rachelle Yu	Dim Sum Worker #3	ACTOR
 2139155	tm460948	Xiao Qing Li	Dim Sum Worker #5	ACTOR
-2139221	tm460948	Chelsea D.E. Johnson	"""High Society"" Lead Singer"	ACTOR
-2139290	tm460948	Kenan Zeigler-Sungur	"""High Society"" Band"	ACTOR
-2139015	tm460948	Adam Farnsworth-Lautsch	"""High Society"" Band"	ACTOR
-2139179	tm460948	Ashton Sweet	"""High Society"" Band"	ACTOR
+2139221	tm460948	Chelsea D.E. Johnson	"High Society" Lead Singer	ACTOR
+2139290	tm460948	Kenan Zeigler-Sungur	"High Society" Band	ACTOR
+2139015	tm460948	Adam Farnsworth-Lautsch	"High Society" Band	ACTOR
+2139179	tm460948	Ashton Sweet	"High Society" Band	ACTOR
 2139264	tm460948	Omar Khan	Omar	ACTOR
 2139305	tm460948	Juno Kim	Sous Chef	ACTOR
 2139046	tm460948	Kipp Glass	Maximal Patron	ACTOR
@@ -45630,7 +45630,7 @@ person_id	id	name	character	role
 17491	ts107724	Taylor Kitsch	Max McLaughlin	ACTOR
 12661	ts107724	Michael C. Hall	Tom Franklin	ACTOR
 30825	ts107724	Nina Hoss	Elsie Garten	ACTOR
-2721	ts107724	Sebastian Koch	"Dr. Werner Gladow ""Engelmacher"""	ACTOR
+2721	ts107724	Sebastian Koch	Dr. Werner Gladow "Engelmacher"	ACTOR
 14525	ts107724	Tuppence Middleton	Claire Franklin	ACTOR
 5081	ts107724	Logan Marshall-Green	Moritz McLaughlin	ACTOR
 256038	ts107724	Mala Emde	Karin Mann	ACTOR
@@ -47215,8 +47215,8 @@ person_id	id	name	character	role
 868280	ts113506	Elsie Bennett	Ella	ACTOR
 1153783	ts113506	Samuel Collings	Sandro	ACTOR
 1777580	tm453862	Emil Atageldijev		DIRECTOR
-5230	tm849022	Amy Adams	"Beverly ""Bev"" Vance"	ACTOR
-20488	tm849022	Glenn Close	"Bonnie ""Mamaw"" Vance"	ACTOR
+5230	tm849022	Amy Adams	Beverly "Bev" Vance	ACTOR
+20488	tm849022	Glenn Close	Bonnie "Mamaw" Vance	ACTOR
 93588	tm849022	Gabriel Basso	J.D. Vance	ACTOR
 3779	tm849022	Haley Bennett	Lindsay Vance	ACTOR
 10204	tm849022	Freida Pinto	Usha	ACTOR
@@ -47426,9 +47426,9 @@ person_id	id	name	character	role
 2204725	ts223981	Payton Sykes	Self	ACTOR
 2204603	ts223981	Jada Wooten	Self	ACTOR
 2204716	ts223981	Vonte Johnson	Self	ACTOR
-2204812	ts223981	"DeVonte ""Dee"" Joseph"	Self	ACTOR
+2204812	ts223981	DeVonte "Dee" Joseph	Self	ACTOR
 2204804	ts223981	Angel Rice	Self	ACTOR
-2204588	ts223981	"Jaden ""Jaymo"" Rice"	Self	ACTOR
+2204588	ts223981	Jaden "Jaymo" Rice	Self	ACTOR
 2204808	ts223981	Benji Chester	Self	ACTOR
 1356472	ts223981	Lexi Brumback	Self	ACTOR
 14142	ts89014	Grey DeLisle	Diana Prince / Wonder Woman (voice)	ACTOR
@@ -48878,7 +48878,7 @@ person_id	id	name	character	role
 239193	ts88151	Maria Sundbom	Lena Pärsson	ACTOR
 1089604	ts88151	Ella Rappich	Amanda Steen	ACTOR
 884662	ts88151	William Spetz	Samir Said	ACTOR
-1099633	ts88151	Arvid Sand	"Lars-Gabriel ""Labbe"" Sager-Crona"	ACTOR
+1099633	ts88151	Arvid Sand	Lars-Gabriel "Labbe" Sager-Crona	ACTOR
 21715	tm444247	Rashida Jones	Herself	ACTOR
 3777	tm444247	Chloë Grace Moretz	Herself	ACTOR
 731	tm444247	Natalie Portman	Herself	ACTOR
@@ -49457,7 +49457,7 @@ person_id	id	name	character	role
 314105	tm443179	Kelli O'Hara	Sheryl Markey	ACTOR
 103585	tm443179	Lamar Johnson	Charlie Donahue	ACTOR
 9530	tm443179	Virginia Gardner	Amanda Monk	ACTOR
-893434	tm443179	Felix Mallard	"Gabe ""Roamer"" Romero"	ACTOR
+893434	tm443179	Felix Mallard	Gabe "Roamer" Romero	ACTOR
 108465	tm443179	Sofia Hasmik	Brenda Shank-Kravitz	ACTOR
 2170	tm443179	Keegan-Michael Key	Mr. Embry	ACTOR
 8708	tm443179	Luke Wilson	James Markey	ACTOR
@@ -50173,7 +50173,7 @@ person_id	id	name	character	role
 1119518	tm475252	Jonathan Augustin		DIRECTOR
 111860	tm887450	Barry Avrich		DIRECTOR
 100699	ts321758	Lee Seung-gi	Cha Dal Gun	ACTOR
-100701	ts321758	Bae Suzy	"Go Hae Ri / ""Elsa"""	ACTOR
+100701	ts321758	Bae Suzy	Go Hae Ri / "Elsa"	ACTOR
 460	ts321758	Shin Sung-rok	Gi Tae Woong	ACTOR
 959851	ts321758	Baek Yoon-sik	Jung Gook Pyo	ACTOR
 54510	ts321758	Moon Sung-keun	Hong Sun Jo	ACTOR
@@ -50334,7 +50334,7 @@ person_id	id	name	character	role
 589134	tm918734	Byron Bowers	Rome	ACTOR
 22928	tm918734	Lorraine Toussaint	Nessi	ACTOR
 22769	tm918734	Method Man	Leroy	ACTOR
-1640702	tm918734	"Jamil ""Mil"" Prattis"	Paris	ACTOR
+1640702	tm918734	Jamil "Mil" Prattis	Paris	ACTOR
 1640736	tm918734	Ivannah Mercedes	Esha	ACTOR
 1641354	tm918734	Liz Priestley	Amahle	ACTOR
 1592474	tm918734	Michael Ta'Bon	Jalen	ACTOR
@@ -50641,7 +50641,7 @@ person_id	id	name	character	role
 3751	ts88485	Adam DeVine	Sam-I-Am (voice)	ACTOR
 79789	tm465724	Eden Duncan-Smith	Claudette 'CJ' Walker	ACTOR
 1052203	tm465724	Dante Crichlow	Sebastian J. Thomas (as Danté Crichlow)	ACTOR
-31540	tm465724	Astro	"Calvin Walker (as Brian ""Stro"" Bradley)"	ACTOR
+31540	tm465724	Astro	Calvin Walker (as Brian "Stro" Bradley)	ACTOR
 77558	tm465724	Marsha Stephanie Blake	Phaedra Walker	ACTOR
 1052032	tm465724	Johnathan Nieves	Eduardo	ACTOR
 8309	tm465724	Michael J. Fox	Mr. Lockhart	ACTOR
@@ -51424,7 +51424,7 @@ person_id	id	name	character	role
 75889	tm459512	Lana Condor	Lara Jean Song Covey	ACTOR
 85471	tm459512	Noah Centineo	Peter Kavinsky	ACTOR
 33096	tm459512	Jordan Fisher	John Ambrose McClaren	ACTOR
-705619	tm459512	Anna Cathcart	"Katherine ""Kitty"" Song Covey"	ACTOR
+705619	tm459512	Anna Cathcart	Katherine "Kitty" Song Covey	ACTOR
 2234	tm459512	John Corbett	Daniel Covey	ACTOR
 96755	tm459512	Sarayu Blue	Trina Rothschild	ACTOR
 37774	tm459512	Janel Parrish	Margot Song Covey	ACTOR
@@ -54438,7 +54438,7 @@ person_id	id	name	character	role
 1094658	tm467467	Darina Littleton	Dancer	ACTOR
 1094659	tm467467	Dominique Loude	Dancer	ACTOR
 1094660	tm467467	Sabina Lundgren	Dancer	ACTOR
-1094661	tm467467	"Huwer ""Havoc"" Marchie"	Dancer	ACTOR
+1094661	tm467467	Huwer "Havoc" Marchie	Dancer	ACTOR
 1094662	tm467467	Amari Marshall	Dancer	ACTOR
 1094663	tm467467	Joré Marshall	Dancer	ACTOR
 1094664	tm467467	Ashanti McIntosh	Dancer	ACTOR
@@ -54449,7 +54449,7 @@ person_id	id	name	character	role
 1094675	tm467467	Brittany Parks	Dancer	ACTOR
 1094688	tm467467	Jalen Preston	Dancer	ACTOR
 27410	tm467467	Elysandra Quinones	Dancer	ACTOR
-1094689	tm467467	"Jo'artis ""Big Mojo"" Ratti"	Dancer	ACTOR
+1094689	tm467467	Jo'artis "Big Mojo" Ratti	Dancer	ACTOR
 1094684	tm467467	Kelsey Richardson	Dancer	ACTOR
 1094690	tm467467	Tacir Roberson	Dancer	ACTOR
 1094691	tm467467	Deijah Robinson	Dancer	ACTOR
@@ -54796,7 +54796,7 @@ person_id	id	name	character	role
 1791085	tm434830	Fred Bailey	Roger	ACTOR
 1523997	tm434830	Miali Buscemi	Lenore	ACTOR
 429561	tm434830	Brad Fraser	Tanner	ACTOR
-1791088	tm434830	James Takkiruq	"Vinny (David ""Goalie"" Topilak)"	ACTOR
+1791088	tm434830	James Takkiruq	Vinny (David "Goalie" Topilak)	ACTOR
 1790980	tm434830	Simon Nattaq	Sam	ACTOR
 307525	tm434830	Madeline Ivalu	Lena	ACTOR
 1791096	tm434830	Seth Burke	Johnny	ACTOR
@@ -54845,7 +54845,7 @@ person_id	id	name	character	role
 636756	tm912373	Scott Zabielski		DIRECTOR
 17688	tm916997	Sabrina Carpenter	Quinn Ackerman	ACTOR
 592061	tm916997	Liza Koshy	Jasmine Hale	ACTOR
-1918	tm916997	Keiynan Lonsdale	"Isaiah ""Juiliard"""	ACTOR
+1918	tm916997	Keiynan Lonsdale	Isaiah "Juiliard"	ACTOR
 101373	tm916997	Michelle Buteau	Ms. Ramirez	ACTOR
 33096	tm916997	Jordan Fisher	Jake Taylor	ACTOR
 235645	tm916997	Drew Tanner	Charlie	ACTOR
@@ -55056,7 +55056,7 @@ person_id	id	name	character	role
 10211	tm319139	Mahesh Manjrekar	Prince	ACTOR
 64512	tm319139	Tinnu Anand	Prithvi Raj	ACTOR
 103836	tm319139	Aditya Srivastava	Venkata	ACTOR
-64748	tm319139	Jacqueline Fernandez	"Special Appearance In Song ""Bad Boy"""	ACTOR
+64748	tm319139	Jacqueline Fernandez	Special Appearance In Song "Bad Boy"	ACTOR
 1217520	tm319139	Sasha Chettri		ACTOR
 846047	tm319139	Mukhtar Khan		ACTOR
 2346142	tm319139	Franaita Jijina	Waitress Angel	ACTOR
@@ -55413,7 +55413,7 @@ person_id	id	name	character	role
 1664588	ts255809	Pablo Duggan		ACTOR
 1664020	ts255809	Horacio García Belsunce		ACTOR
 1663999	ts255809	Irene Hurtig		ACTOR
-1663897	ts255809	"Juan Carlos ""John"" Hurtig"		ACTOR
+1663897	ts255809	Juan Carlos "John" Hurtig		ACTOR
 1663883	ts255809	Guillermo Bártoli		ACTOR
 1664059	ts255809	Diego Molina Pico		ACTOR
 1663855	ts255809	Gabriel Becker		ACTOR
@@ -55473,7 +55473,7 @@ person_id	id	name	character	role
 138710	tm467804	Yogi Babu	Maari	ACTOR
 919932	tm467804	Raj Arjun	Terrorist	ACTOR
 157086	tm467804	Munishkanth	Bala's uncle	ACTOR
-254823	tm467804	Stunt Silva	"""Vatti"" Kumar"	ACTOR
+254823	tm467804	Stunt Silva	"Vatti" Kumar	ACTOR
 234966	tm467804	Sayesha Saigal	Special Appearance in song	ACTOR
 68500	tm467804	A. L. Vijay		DIRECTOR
 1353419	ts225410	Coty Camacho	Marcela	ACTOR
@@ -55706,9 +55706,9 @@ person_id	id	name	character	role
 752500	tm844250	Rahul Ramakrishna	Ravindra	ACTOR
 67251	tm844250	Brahmaji	Sudharshan	ACTOR
 160928	tm844250	Harshavardhan	Kashiram	ACTOR
-61588	tm844250	Sachin Khedekar	"Ananth Ramakrishna ""ARK"""	ACTOR
+61588	tm844250	Sachin Khedekar	Ananth Ramakrishna "ARK"	ACTOR
 130935	tm844250	Vennela Kishore	Shrinivas	ACTOR
-61712	tm844250	Brahmanandam	"Special Appearance in ""Ramuloo Ramulaa"" Song"	ACTOR
+61712	tm844250	Brahmanandam	Special Appearance in "Ramuloo Ramulaa" Song	ACTOR
 104667	tm844250	Ajay	Satyam	ACTOR
 45445	tm844250	Tanikella Bharani	Anjaneya Prasad	ACTOR
 45444	tm844250	Rohini	Lakshmi, Valmiki's wife	ACTOR
@@ -57053,7 +57053,7 @@ person_id	id	name	character	role
 209562	tm450462	Shabeer Kallarakkal	Arjith	ACTOR
 182924	tm450462	Gajaraj	Shanmugam	ACTOR
 230453	tm450462	Rajkumar	Student	ACTOR
-201727	tm450462	Vaibhav Reddy	"Idhayam Murali (Special Appearance in the song ""Aaha Kalyanam"" )"	ACTOR
+201727	tm450462	Vaibhav Reddy	Idhayam Murali (Special Appearance in the song "Aaha Kalyanam" )	ACTOR
 246646	tm450462	Rohit Nandakumar		ACTOR
 1926069	tm450462	Leo Sivadass		ACTOR
 1967544	tm450462	Sathya Prema		ACTOR
@@ -57709,7 +57709,7 @@ person_id	id	name	character	role
 21924	tm925218	Shawn Yue	Meng Ge	ACTOR
 250345	tm925218	Jessie Li	Ji Wei	ACTOR
 39860	tm925218	Kara Hui	Mrs. Lotus	ACTOR
-612977	tm925218	Qiao Shan	"""Paper"" [Voice]"	ACTOR
+612977	tm925218	Qiao Shan	"Paper" [Voice]	ACTOR
 210296	tm925218	Tu Men	Uncle Ping	ACTOR
 965111	tm925218	Yutian Wang	Spades	ACTOR
 1509062	tm925218	Yang Di		ACTOR
@@ -57824,7 +57824,7 @@ person_id	id	name	character	role
 128938	tm918853	Michael J. Prosser	Assistant Princpal Yager	ACTOR
 29735	tm918853	Brett Haley		DIRECTOR
 783544	ts216698	Nadiya Hussain		ACTOR
-712950	tm460815	Kartik Aaryan	"Vinod ""Guddu"" Shukla"	ACTOR
+712950	tm460815	Kartik Aaryan	Vinod "Guddu" Shukla	ACTOR
 68089	tm460815	Kriti Sanon	Rashmi Trivedi	ACTOR
 64740	tm460815	Vinay Pathak	Vishnu Trivedi	ACTOR
 239271	tm460815	Pankaj Tripathi	Babulal	ACTOR
@@ -57934,13 +57934,13 @@ person_id	id	name	character	role
 978699	ts226410	Ping Hui Tay	Yan Nan Tian	ACTOR
 2043626	ts226410	Zhang Xuehan	Tao Hua	ACTOR
 2253033	ts226410	Wang Zhen	Zhang Ching	ACTOR
-1512463	ts226410	Song Wenzuo	"Hei Zhi Zhu / ""Black Spider"""	ACTOR
-731899	ts226410	Natalie Zhang	"Xiao Mi Mi ""Enchantress"" [One of the Ten Great Villains]"	ACTOR
+1512463	ts226410	Song Wenzuo	Hei Zhi Zhu / "Black Spider"	ACTOR
+731899	ts226410	Natalie Zhang	Xiao Mi Mi "Enchantress" [One of the Ten Great Villains]	ACTOR
 1018810	ts226410	Hou Xiao Tong	He Shuang [Hua Wu Que's subordinate]	ACTOR
 606468	ts226410	Hou Chang-Rong	Wan Chun Liu	ACTOR
-325866	ts226410	Jill Hsu	"Tu Jiao Jiao ""the Tomboy"" [One of the Ten Great Villains]"	ACTOR
+325866	ts226410	Jill Hsu	Tu Jiao Jiao "the Tomboy" [One of the Ten Great Villains]	ACTOR
 880253	ts226410	Yuan Jiang	Tie Ping Gu [Disciple of Yi Hua Palace] | Li Da Zui's daughter]	ACTOR
-1253693	ts226410	Zheng Yawen	"Ma Ta Xue ""Horse"" of the Twelve Zodiacs"	ACTOR
+1253693	ts226410	Zheng Yawen	Ma Ta Xue "Horse" of the Twelve Zodiacs	ACTOR
 74772	ts226410	Chen Zhihui	Tie Wu Shuang	ACTOR
 65250	tm455161	Arjun Kapoor	Sadashiv Rao Bhau	ACTOR
 68089	tm455161	Kriti Sanon	Parvatibai	ACTOR
@@ -58087,7 +58087,7 @@ person_id	id	name	character	role
 1317536	tm851346	Obinna Nwachukwu	Jay	ACTOR
 1317418	tm851346	Dennis Lindsey	Delonte	ACTOR
 1317539	tm851346	Taline Stewart	Blue	ACTOR
-1317541	tm851346	"Derron ""Rizo"" Scott"	Mike	ACTOR
+1317541	tm851346	Derron "Rizo" Scott	Mike	ACTOR
 1317563	tm851346	Jacari Dye	Young Jay	ACTOR
 1317508	tm851346	Julian Selman	Young Demetrius	ACTOR
 1317544	tm851346	Tyree Wormley	Young Delonte	ACTOR
@@ -58269,7 +58269,7 @@ person_id	id	name	character	role
 122224	tm830833	Tiffany Haddish	Herself	ACTOR
 8531	tm830833	Kevin Hart	Himself	ACTOR
 336641	tm830833	Alex Stapleton		DIRECTOR
-972	tm819497	Felicitas Woll	"Carlotta ""Lolle"" Holzmann"	ACTOR
+972	tm819497	Felicitas Woll	Carlotta "Lolle" Holzmann	ACTOR
 115624	tm819497	Jan Sosniok	Sven Ehlers	ACTOR
 656	tm819497	Matthias Klimsa	Hart	ACTOR
 1085092	tm819497	Janina Uhse	Dana	ACTOR
@@ -59790,7 +59790,7 @@ person_id	id	name	character	role
 597312	tm824560	Abba Makama		DIRECTOR
 1588843	tm920320	Captain Ramadan	himself	ACTOR
 1588825	tm920320	Nahla Ramadan	herself	ACTOR
-1589409	tm920320	"Asmaa ""Zebiba"" Ramadan"	herself	ACTOR
+1589409	tm920320	Asmaa "Zebiba" Ramadan	herself	ACTOR
 1538670	tm920320	Mayye Zayed		DIRECTOR
 7287	tm466426	T.I.	Sonny	ACTOR
 9737	tm466426	Mike Epps	Dutch	ACTOR
@@ -59851,7 +59851,7 @@ person_id	id	name	character	role
 2968	tm835512	Clancy Brown	Mr. Ree	ACTOR
 78366	tm835512	Jorge Diaz	Melvin / Stanley Peet / Melvin's Dad	ACTOR
 72206	tm835512	Peter Hastings	Comic Narrator	ACTOR
-1047182	tm835512	Evan Kishiyama	"Steve ""Gooch"" Yamaguchi"	ACTOR
+1047182	tm835512	Evan Kishiyama	Steve "Gooch" Yamaguchi	ACTOR
 8517	tm835512	David Koechner	Mr. Meaner	ACTOR
 32507	tm835512	Erica Luttrell	Erica / George's Mom	ACTOR
 1224718	tm835512	Patty Mattson	Miss Anthrope / Harold's Mom	ACTOR
@@ -60408,8 +60408,8 @@ person_id	id	name	character	role
 68708	tm973335	Rukhsar Rehman	Tanya	ACTOR
 244134	tm973335	Vedhika	Ritu	ACTOR
 68973	tm973335	Anupam Bhattacharya	Pawan	ACTOR
-1280799	tm973335	Natašha Stanković	"Special Appearance in ""Jhalak Dikhlaja Reloaded"" Song"	ACTOR
-1057082	tm973335	Scarlett Mellish Wilson	"Special Appearance in ""Jhalak Dikhlaja Reloaded"" Song"	ACTOR
+1280799	tm973335	Natašha Stanković	Special Appearance in "Jhalak Dikhlaja Reloaded" Song	ACTOR
+1057082	tm973335	Scarlett Mellish Wilson	Special Appearance in "Jhalak Dikhlaja Reloaded" Song	ACTOR
 165470	tm973335	Jeethu Joseph		DIRECTOR
 61609	tm847212	Karthi	Vicky (Saravanan)	ACTOR
 133543	tm847212	Jyothika	Parvathy	ACTOR
@@ -61099,7 +61099,7 @@ person_id	id	name	character	role
 243525	tm869373	Sho Jinnai	Nakazono	ACTOR
 310857	tm869373	Shin Koyanagi	Eimei Jinkawa	ACTOR
 845008	tm869373	Taiki Sato	Kataoka Chiharu	ACTOR
-461398	tm869373	Kanta Sato	"Kurasaki Teppei / ""Tettsu"""	ACTOR
+461398	tm869373	Kanta Sato	Kurasaki Teppei / "Tettsu"	ACTOR
 72744	tm869373	Hitoshi Ozawa	Seki Masatora	ACTOR
 44586	tm869373	Takashi Tsukamoto	Parko	ACTOR
 654537	tm869373	Shigeaki Kubo		DIRECTOR
@@ -62037,8 +62037,8 @@ person_id	id	name	character	role
 62784	tm483511	Sharat Saxena	Pinky's Father	ACTOR
 67494	tm483511	Nushrratt Bharuccha	Young Lalli	ACTOR
 109503	tm483511	Ishita Raj Sharma	Young Pinky	ACTOR
-941749	tm483511	Neha Kakkar	"Special Appearance in ""Lamborghini"" Song"	ACTOR
-163062	tm483511	Jassie Gill	"Special Appearance in ""Lamborghini"" Song"	ACTOR
+941749	tm483511	Neha Kakkar	Special Appearance in "Lamborghini" Song	ACTOR
+163062	tm483511	Jassie Gill	Special Appearance in "Lamborghini" Song	ACTOR
 399654	tm483511	Rajendra Sethi	Trilochan Khanna	ACTOR
 104609	tm483511	Bhuvan Arora		ACTOR
 1314218	tm483511	Navjot Gulati		DIRECTOR
@@ -62172,12 +62172,12 @@ person_id	id	name	character	role
 211173	tm885364	Paco León	María José Riquelme	ACTOR
 840951	tm885364	Luis de la Rosa	Bruno Riquelme De La Mora	ACTOR
 279259	tm885364	Arturo Ríos	Ernesto De La Mora	ACTOR
-62708	tm885364	Verónica Langer	"Carmela ""Carmelita"" Villalobos"	ACTOR
+62708	tm885364	Verónica Langer	Carmela "Carmelita" Villalobos	ACTOR
 744121	tm885364	Lucas Velazquez	Claudio Navarro	ACTOR
 297072	tm885364	Norma Angélica	Delia	ACTOR
 80421	tm885364	Sawandi Wilson	Dominique Shaw	ACTOR
-139184	tm885364	Natasha Dupeyrón	"Ana Paula ""La Chiquis"" Corcuera"	ACTOR
-127066	tm885364	Paco Rueda	"Agustín ""El Chiquis"" Corcuera Jr."	ACTOR
+139184	tm885364	Natasha Dupeyrón	Ana Paula "La Chiquis" Corcuera	ACTOR
+127066	tm885364	Paco Rueda	Agustín "El Chiquis" Corcuera Jr.	ACTOR
 185120	tm885364	Hugo Catalán	Oliver	ACTOR
 1013852	tm885364	Manolo Caro		DIRECTOR
 96731	ts45322	Li Jiaqi	Su Can Can	ACTOR
@@ -62839,11 +62839,11 @@ person_id	id	name	character	role
 1286136	tm818499	Haslinna Jaaman	Lisa	ACTOR
 369588	tm818499	Glen Goei		DIRECTOR
 630039	tm818499	Gavin Yap		DIRECTOR
-265449	tm822272	Adipati Dolken	"Indra ""Ican"" Tauhid Sikumbang"	ACTOR
+265449	tm822272	Adipati Dolken	Indra "Ican" Tauhid Sikumbang	ACTOR
 844959	tm822272	Della Dartyan	Arini Chaniago	ACTOR
 305590	tm822272	Ratna Riantiarno	Rosmaidah	ACTOR
-665021	tm822272	Ariyo Wahab	"Anandoyo ""Ndoy"" Tauhid Sikumbang"	ACTOR
-972660	tm822272	Bastian Steel	"Yunus ""Buncun"" Tauhid Sikumbang"	ACTOR
+665021	tm822272	Ariyo Wahab	Anandoyo "Ndoy" Tauhid Sikumbang	ACTOR
+972660	tm822272	Bastian Steel	Yunus "Buncun" Tauhid Sikumbang	ACTOR
 236417	tm822272	Putri Ayudya	Maya	ACTOR
 1201162	tm822272	Taskya Namya	Endah	ACTOR
 293542	tm822272	Egy Fedly	Iskandar/Paman	ACTOR
@@ -63274,7 +63274,7 @@ person_id	id	name	character	role
 2378265	tm901961	Reinhold Judel	Mann im Zug	ACTOR
 2378358	tm901961	Yannick Leif		DIRECTOR
 1497982	tm898285	Micah P. Hinson	Himself	ACTOR
-1497986	tm898285	"Bobby ""Dues"" Wilson"	Himself	ACTOR
+1497986	tm898285	Bobby "Dues" Wilson	Himself	ACTOR
 1497987	tm898285	Cannupa Hanska Luger	Himself	ACTOR
 1497988	tm898285	Julie Keefe	Herself	ACTOR
 1497989	tm898285	Haley Greenfeather English	Herself	ACTOR
@@ -63379,7 +63379,7 @@ person_id	id	name	character	role
 1085192	tm475254	Mostafa Monwar		ACTOR
 1223482	tm475254	Dilruba Hossain Doyel		ACTOR
 1994868	tm475254	Mk Sabbir Rahman	Sabbir	ACTOR
-2120743	tm475254	Shahnaz Sumi	"Jui (Segment ""Where, Nowhere"")"	ACTOR
+2120743	tm475254	Shahnaz Sumi	Jui (Segment "Where, Nowhere")	ACTOR
 589555	tm475254	Tanvir Ahsan		DIRECTOR
 1119514	tm475254	Saleh Sobhan Auneem		DIRECTOR
 1119512	tm475254	Mir Mokarram Hossain		DIRECTOR
@@ -63826,7 +63826,7 @@ person_id	id	name	character	role
 1850450	tm1030742	Marwan Nabil		DIRECTOR
 1344	tm983849	Vir Das	Himeslf	ACTOR
 1344	tm983849	Vir Das		DIRECTOR
-378137	ts103918	Diego Vásquez	"Emilio de Jesús ""El Crespo"" Ortega Rangel"	ACTOR
+378137	ts103918	Diego Vásquez	Emilio de Jesús "El Crespo" Ortega Rangel	ACTOR
 331622	ts103918	Carolina Acevedo	Milena Aponte de Ortega	ACTOR
 930844	ts103918	Norma Nivia	Natalia Peralta	ACTOR
 31902	ts103918	Julio Pachón	San Judas Tadeo	ACTOR
@@ -64508,7 +64508,7 @@ person_id	id	name	character	role
 21907	ts108385	Anna Chlumsky	Vivian Kent	ACTOR
 83455	ts108385	Arian Moayed	Todd Spodek	ACTOR
 1948	ts108385	Katie Lowes	Rachel Deloache Williams	ACTOR
-1101560	ts108385	Alexis Floyd	"Neffatari ""Neff"" Davis"	ACTOR
+1101560	ts108385	Alexis Floyd	Neffatari "Neff" Davis	ACTOR
 3750	ts108385	Anders Holm	Jack Kent	ACTOR
 20450	ts108385	Anna Deavere Smith	Maud Lewis	ACTOR
 82952	ts108385	Jeff Perry	Lou	ACTOR
@@ -65038,21 +65038,21 @@ person_id	id	name	character	role
 591674	tm979026	Chris Sullivan	Building Doorman	ACTOR
 2142436	tm979026	Luis A. Miranda Jr.	Building Concierge	ACTOR
 2143484	tm979026	Kelly Watson	Homeless Person	ACTOR
-7316	tm979026	Chuck Cooper	"""SUNDAY"" Legend"	ACTOR
-72703	tm979026	André De Shields	"""SUNDAY"" Legend"	ACTOR
-67974	tm979026	Renée Elise Goldsberry	"""SUNDAY"" Legend"	ACTOR
-29038	tm979026	Joel Grey	"""SUNDAY"" Legend"	ACTOR
-52364	tm979026	Wilson Jermaine Heredia	"""SUNDAY"" Legend"	ACTOR
-124329	tm979026	Beth Malone	"""SUNDAY"" Legend"	ACTOR
-33754	tm979026	Howard McGillin	"""SUNDAY"" Legend"	ACTOR
-16838	tm979026	Brian Stokes Mitchell	"""SUNDAY"" Legend"	ACTOR
-17994	tm979026	Bebe Neuwirth	"""SUNDAY"" Legend"	ACTOR
-35794	tm979026	Adam Pascal	"""SUNDAY"" Legend"	ACTOR
-31631	tm979026	Bernadette Peters	"""SUNDAY"" Legend"	ACTOR
-3163	tm979026	Phylicia Rashād	"""SUNDAY"" Legend"	ACTOR
-20186	tm979026	Chita Rivera	"""SUNDAY"" Legend"	ACTOR
-53586	tm979026	Daphne Rubin-Vega	"""SUNDAY"" Legend"	ACTOR
-227510	tm979026	Phillipa Soo	"""SUNDAY"" Legend"	ACTOR
+7316	tm979026	Chuck Cooper	"SUNDAY" Legend	ACTOR
+72703	tm979026	André De Shields	"SUNDAY" Legend	ACTOR
+67974	tm979026	Renée Elise Goldsberry	"SUNDAY" Legend	ACTOR
+29038	tm979026	Joel Grey	"SUNDAY" Legend	ACTOR
+52364	tm979026	Wilson Jermaine Heredia	"SUNDAY" Legend	ACTOR
+124329	tm979026	Beth Malone	"SUNDAY" Legend	ACTOR
+33754	tm979026	Howard McGillin	"SUNDAY" Legend	ACTOR
+16838	tm979026	Brian Stokes Mitchell	"SUNDAY" Legend	ACTOR
+17994	tm979026	Bebe Neuwirth	"SUNDAY" Legend	ACTOR
+35794	tm979026	Adam Pascal	"SUNDAY" Legend	ACTOR
+31631	tm979026	Bernadette Peters	"SUNDAY" Legend	ACTOR
+3163	tm979026	Phylicia Rashād	"SUNDAY" Legend	ACTOR
+20186	tm979026	Chita Rivera	"SUNDAY" Legend	ACTOR
+53586	tm979026	Daphne Rubin-Vega	"SUNDAY" Legend	ACTOR
+227510	tm979026	Phillipa Soo	"SUNDAY" Legend	ACTOR
 1148458	tm979026	Chad Beguelin	Aspiring Composers and Lyricists	ACTOR
 64137	tm979026	Nick Blaemire	Aspiring Composers and Lyricists	ACTOR
 1261347	tm979026	Eli Bolin	Aspiring Composers and Lyricists	ACTOR
@@ -65094,15 +65094,15 @@ person_id	id	name	character	role
 1889086	tm979026	Lucy Struever	Susan Company Dancer #5	ACTOR
 2142913	tm979026	Stephanie Crousillat	Susan Company Dancer #6	ACTOR
 2142980	tm979026	Gaby Diaz	Susan Company Dancer #7	ACTOR
-1947421	tm979026	Ilia Jessica Castro	"""PLAY GAME"" Dancer #1"	ACTOR
-2143058	tm979026	Marie Rose Baramoski	"""PLAY GAME"" Dancer #2"	ACTOR
-2143489	tm979026	Keisha 'Sparkle' Hughes	"""PLAY GAME"" Dancer #3"	ACTOR
+1947421	tm979026	Ilia Jessica Castro	"PLAY GAME" Dancer #1	ACTOR
+2143058	tm979026	Marie Rose Baramoski	"PLAY GAME" Dancer #2	ACTOR
+2143489	tm979026	Keisha 'Sparkle' Hughes	"PLAY GAME" Dancer #3	ACTOR
 2250543	tm979026	Lane Napper	Bookstore Dancer #1	ACTOR
 2143529	tm979026	Kyle McIntire	Bookstore Dancer #2	ACTOR
 1851281	tm979026	Sean Ryan	Bookstore Dancer #3	ACTOR
-989018	tm979026	Christopher Grant	"""SUNDAY"" Busboy Dancer #1"	ACTOR
-2142927	tm979026	Austin Goodwin	"""SUNDAY"" Busboy Dancer #2"	ACTOR
-1421526	tm979026	Carlos Gonzalez	"""SUNDAY"" Cook Dancer"	ACTOR
+989018	tm979026	Christopher Grant	"SUNDAY" Busboy Dancer #1	ACTOR
+2142927	tm979026	Austin Goodwin	"SUNDAY" Busboy Dancer #2	ACTOR
+1421526	tm979026	Carlos Gonzalez	"SUNDAY" Cook Dancer	ACTOR
 2143527	tm979026	Callan Bergmann	Lobby Dancer #2	ACTOR
 2143513	tm979026	Kyle Richard Robinson	Lobby Dancer #3	ACTOR
 2143137	tm979026	Erin N. Moore	Lobby Dancer #4	ACTOR
@@ -65322,7 +65322,7 @@ person_id	id	name	character	role
 139506	tm370144	Michael Rianda		DIRECTOR
 164247	ts293103	Alejandro Riaño	Juan Pablo González Pombo	ACTOR
 389396	ts293103	Carolina Gaitán	Camila Benavides	ACTOR
-1166690	ts293103	Julián Caicedo	"Libardo Sneider ""Ivancito"" Bucaramanga"	ACTOR
+1166690	ts293103	Julián Caicedo	Libardo Sneider "Ivancito" Bucaramanga	ACTOR
 2015	ts345200	Sidse Babett Knudsen	Birgitte Nyborg	ACTOR
 932	ts345200	Birgitte Hjort Sørensen	Katrine Fønsmark	ACTOR
 2004	ts345200	Søren Malling	Torben Friis	ACTOR
@@ -66345,7 +66345,7 @@ person_id	id	name	character	role
 8485	tm1198242	Jason Acuña	Self	ACTOR
 8484	tm1198242	Preston Lacy	Self	ACTOR
 214726	tm1198242	Zach Holmes	Self	ACTOR
-1979773	tm1198242	"Sean ""Poopies"" McInerney"	Self	ACTOR
+1979773	tm1198242	Sean "Poopies" McInerney	Self	ACTOR
 1979903	tm1198242	Jasper Dolphin	Self	ACTOR
 1980069	tm1198242	Rachel Wolfson	Self	ACTOR
 4096	tm1198242	Spike Jonze	Self	ACTOR
@@ -67265,7 +67265,7 @@ person_id	id	name	character	role
 15186	ts287559	Matt Lanter	George Hutchene / Skyfox	ACTOR
 1311115	tm1191224	Anna-Maria Sieklucka	Laura Biel	ACTOR
 1150062	tm1191224	Michele Morrone	Massimo Torricelli / Adriano Torricelli	ACTOR
-1913430	tm1191224	Simone Susinna	"Marcelo ""Nacho"" Matos"	ACTOR
+1913430	tm1191224	Simone Susinna	Marcelo "Nacho" Matos	ACTOR
 242319	tm1191224	Magdalena Lamparska	Olga	ACTOR
 1399964	tm1191224	Otar Saralidze	Domenico	ACTOR
 338145	tm1191224	Natasza Urbańska	Anna	ACTOR
@@ -67569,7 +67569,7 @@ person_id	id	name	character	role
 2306539	ts321298	Yun Sang-jeong	Kim Hye-ji	ACTOR
 205256	ts321298	Bae Woo-hee	Go Yoo-ra	ACTOR
 1091026	ts321298	Seo Hye-won	Jo Yoo-jung	ACTOR
-2358443	ts321298	Lee Soo-jung	"Ji Min / ""M Kitchen"" Employee"	ACTOR
+2358443	ts321298	Lee Soo-jung	Ji Min / "M Kitchen" Employee	ACTOR
 974023	ts321298	Park Seon-ho		DIRECTOR
 1485765	tm1120855	Emma Pasarow	Auden West	ACTOR
 1090617	tm1120855	Belmont Cameli	Eli Stock	ACTOR
@@ -67753,7 +67753,7 @@ person_id	id	name	character	role
 23563	tm1003630	Louise Lombard	Trish Daniels	ACTOR
 886062	tm1003630	Chance Perdomo	Landon Gibson	ACTOR
 95200	tm1003630	Rob Estes	Ken Scott	ACTOR
-17320	tm1003630	Arielle Kebbel	"Kimberly ""Kim"" Vance"	ACTOR
+17320	tm1003630	Arielle Kebbel	Kimberly "Kim" Vance	ACTOR
 33851	tm1003630	Stephen Moyer	Christian Vance	ACTOR
 12487	tm1003630	Mira Sorvino	Carol Young	ACTOR
 712318	tm1003630	Frances Turner	Karen Scott	ACTOR
@@ -68035,16 +68035,16 @@ person_id	id	name	character	role
 337798	tm1079334	William Alexander	Self - Host, The Magic of Oil Painting III (archive footage)	ACTOR
 68633	tm1079334	Joshua Rofé		DIRECTOR
 2319	ts296214	Peter Dinklage	Narrator	ACTOR
-2266522	ts330347	Barbara Liberek	"Aleksandra ""Alex"" Walas"	ACTOR
+2266522	ts330347	Barbara Liberek	Aleksandra "Alex" Walas	ACTOR
 965600	ts330347	Eryk Pratsko	Rafał/Chworz	ACTOR
 2013261	ts330347	Mateusz Górski	Antoni	ACTOR
 1530509	ts330347	Kaja Chan	Hania	ACTOR
 2266130	ts330347	Maja Chan	Basia	ACTOR
-1353782	ts330347	Daniel Namiotko	"""Gigi"""	ACTOR
-740842	ts330347	Stanisław Cywka	"""Birdy"""	ACTOR
+1353782	ts330347	Daniel Namiotko	"Gigi"	ACTOR
+740842	ts330347	Stanisław Cywka	"Birdy"	ACTOR
 1944481	ts330347	Anna Paliga	Iliana	ACTOR
 53416	ts330347	Andrzej Chyra	profesor Jan Zawadzki	ACTOR
-1586509	ts330347	Stanisław Linowski	"Lucjan ""Lucky"" Szczęsny, asystent Zawadzkiego"	ACTOR
+1586509	ts330347	Stanisław Linowski	Lucjan "Lucky" Szczęsny, asystent Zawadzkiego	ACTOR
 4051	tm1227853	Tabu	Manjulika/Anjulika	ACTOR
 712950	tm1227853	Kartik Aaryan	Ruhaan Randhawa	ACTOR
 68113	tm1227853	Kiara Advani	Reet Rathore	ACTOR
@@ -68833,7 +68833,7 @@ person_id	id	name	character	role
 2073081	tm1107225	Lucía de la Puerta	Samy	ACTOR
 197465	tm1107225	Marçal Forés		DIRECTOR
 64704	ts299874	Billy Corben		DIRECTOR
-20218	tm1049265	Agata Buzek	"Joanna ""Jo"" Lisiecka"	ACTOR
+20218	tm1049265	Agata Buzek	Joanna "Jo" Lisiecka	ACTOR
 192296	tm1049265	Jacek Braciak	Witek Lisiecki, mąż Joanny	ACTOR
 68907	tm1049265	Adam Woronowicz	Maciek	ACTOR
 56855	tm1049265	Malgorzata Zajaczkowska	babcia	ACTOR
@@ -69500,7 +69500,7 @@ person_id	id	name	character	role
 162110	tm1180123	Niki Lindroth von Bahr		DIRECTOR
 385667	tm1180123	Marc James Roels		DIRECTOR
 304190	tm1180123	Emma De Swaef		DIRECTOR
-5436	tm1141923	Laura Marano	"Isabella ""Izzy"""	ACTOR
+5436	tm1141923	Laura Marano	Isabella "Izzy"	ACTOR
 103613	tm1141923	Mena Massoud	Prince Thomas	ACTOR
 87128	tm1141923	Chelsie Preston Crayford	Destiny	ACTOR
 2218357	tm1141923	Grace Bentley-Tsibuah	Lola	ACTOR
@@ -69754,7 +69754,7 @@ person_id	id	name	character	role
 2290375	ts331680	Paul Jackman	Self - Engineer (Plans everything)	ACTOR
 2290341	ts331680	Derek Forestier	Self - Maker (Best Friend of Jimmy DiResta)	ACTOR
 2290448	ts331680	John Graziano	Self - Maker (Graz, Bad Jokes)	ACTOR
-2254007	ts331680	Jimmy DiResta	"Self - Host (Maker of ""Things"")"	ACTOR
+2254007	ts331680	Jimmy DiResta	Self - Host (Maker of "Things")	ACTOR
 2348969	ts331680	Patrick Laperrière	Self - Maker (Canadian Pat)	ACTOR
 12907	tm1210379	Langley Kirkwood	Johan Greser	ACTOR
 241847	tm1210379	Tessa Jubber	Diane Greser	ACTOR
@@ -70904,7 +70904,7 @@ person_id	id	name	character	role
 54022	tm921206	Colin Moss	Westin Barkley	ACTOR
 323630	tm921206	Michael Kirch	James Alexander	ACTOR
 1309273	tm921206	James van Helsdinger	Chloe's Dad	ACTOR
-895242	tm921206	Megan du Plessis	"Shelly ""Elle"" Evans (Age 4)"	ACTOR
+895242	tm921206	Megan du Plessis	Shelly "Elle" Evans (Age 4)	ACTOR
 2021000	tm921206	Lincoln Pearson	Lee Flynn (Age 4)	ACTOR
 2021074	tm921206	Michael Miccoli	Noah Flynn (Age 9)	ACTOR
 2021001	tm921206	Caleb Payne	Noah Flynn (Age 6)	ACTOR
@@ -70912,8 +70912,8 @@ person_id	id	name	character	role
 1533209	tm921206	Lya du Toit	Marco's Little Sister	ACTOR
 633888	tm921206	Kingsley Pearson	Lee Flynn (Age 7)	ACTOR
 2021136	tm921206	Jesse Rowan-Goldberg	Lee Flynn (Age 11)	ACTOR
-2021117	tm921206	Caitlyn de Abreu	"Shelly ""Elle"" Evans (Age 7)"	ACTOR
-895241	tm921206	Juliet Blacher	"Shelly ""Elle"" Evans (Age 11)"	ACTOR
+2021117	tm921206	Caitlyn de Abreu	Shelly "Elle" Evans (Age 7)	ACTOR
+895241	tm921206	Juliet Blacher	Shelly "Elle" Evans (Age 11)	ACTOR
 35650	tm921206	Vince Marcello		DIRECTOR
 45555	ts268835	Cho Seung-woo	Han Tae-sul	ACTOR
 61460	ts268835	Park Shin-hye	Kang Seo-hae	ACTOR
@@ -70961,7 +70961,7 @@ person_id	id	name	character	role
 371597	tm319224	Peter Ettinger	Uncle Jack's Nephew (voice)	ACTOR
 967765	tm319224	Dave Needham		DIRECTOR
 46496	ts301914	Lee Young-ae	Koo Kyung-yi	ACTOR
-743758	ts301914	Kim Hye-jun	"Song Yi-kyung / ""K"""	ACTOR
+743758	ts301914	Kim Hye-jun	Song Yi-kyung / "K"	ACTOR
 44200	ts301914	Kim Hae-sook	Director Yong	ACTOR
 928503	ts301914	Kwak Sun-young	Na Je-hui	ACTOR
 2080268	ts301914	Baek Sung-chul	Santa	ACTOR
@@ -71201,7 +71201,7 @@ person_id	id	name	character	role
 192071	tm816591	Robert Więckiewicz	Barski	ACTOR
 247112	tm816591	Rafał Zawierucha	Ujma	ACTOR
 5073	tm816591	Jakub Gierszał	Antoś	ACTOR
-744466	tm816591	Sandra Drzymalska	"""Młoda"""	ACTOR
+744466	tm816591	Sandra Drzymalska	"Młoda"	ACTOR
 167362	tm816591	Olga Bołądź	Gabi	ACTOR
 244845	tm816591	Dorota Kolak	Mira	ACTOR
 331499	tm816591	Andrzej Andrzejewski	Teplic	ACTOR
@@ -71521,7 +71521,7 @@ person_id	id	name	character	role
 75889	tm860261	Lana Condor	Lara Jean Song Covey	ACTOR
 85471	tm860261	Noah Centineo	Peter Kavinsky	ACTOR
 37774	tm860261	Janel Parrish	Margot Song Covey	ACTOR
-705619	tm860261	Anna Cathcart	"Katherine ""Kitty"" Song Covey"	ACTOR
+705619	tm860261	Anna Cathcart	Katherine "Kitty" Song Covey	ACTOR
 256017	tm860261	Ross Butler	Trevor Pike	ACTOR
 12349	tm860261	Madeleine Arthur	Christine	ACTOR
 657461	tm860261	Emilija Baranac	Genevieve	ACTOR
@@ -72001,40 +72001,40 @@ person_id	id	name	character	role
 602905	ts314395	Asaf Sudry		DIRECTOR
 602906	ts314395	Tali Shemesh		DIRECTOR
 299215	tm817075	Mateusz Banasiuk	Dawid	ACTOR
-197197	tm817075	Weronika Książkiewicz	"Ewa Drzewiecka ""Dzika"""	ACTOR
-389829	tm817075	Mateusz Damięcki	"""Golden"""	ACTOR
-244842	tm817075	Łukasz Simlat	"Jacek Bauer, dowódca ""Dzikiej"""	ACTOR
-236632	tm817075	Wojciech Zieliński	"""Kaszub"", brat Dawida"	ACTOR
-371049	tm817075	Szymon Bobrowski	"Marcin Mrówczyński ""Mrówka"""	ACTOR
+197197	tm817075	Weronika Książkiewicz	Ewa Drzewiecka "Dzika"	ACTOR
+389829	tm817075	Mateusz Damięcki	"Golden"	ACTOR
+244842	tm817075	Łukasz Simlat	Jacek Bauer, dowódca "Dzikiej"	ACTOR
+236632	tm817075	Wojciech Zieliński	"Kaszub", brat Dawida	ACTOR
+371049	tm817075	Szymon Bobrowski	Marcin Mrówczyński "Mrówka"	ACTOR
 139465	tm817075	Janusz Chabior	Andrzej Polański	ACTOR
-160320	tm817075	Sebastian Stankiewicz	"""Buła"""	ACTOR
-242508	tm817075	Konrad Eleryk	"""Olo"""	ACTOR
-265267	tm817075	Paulina Gałązka	"""Mimi"", dziewczyna ""Ola"""	ACTOR
-356946	tm817075	Cezary Łukaszewicz	"""Krzywy"""	ACTOR
-774624	tm817075	Kacper Sasin	"""Messi"""	ACTOR
-392299	tm817075	Krzysztof Wach	"""Ronaldo"""	ACTOR
-597814	tm817075	Anita Sokołowska	"Małgorzata, adwokatka ""Mrówki"""	ACTOR
-347276	tm817075	Sylwia Juszczak	"Kamila, żona ""Kaszuba"""	ACTOR
+160320	tm817075	Sebastian Stankiewicz	"Buła"	ACTOR
+242508	tm817075	Konrad Eleryk	"Olo"	ACTOR
+265267	tm817075	Paulina Gałązka	"Mimi", dziewczyna "Ola"	ACTOR
+356946	tm817075	Cezary Łukaszewicz	"Krzywy"	ACTOR
+774624	tm817075	Kacper Sasin	"Messi"	ACTOR
+392299	tm817075	Krzysztof Wach	"Ronaldo"	ACTOR
+597814	tm817075	Anita Sokołowska	Małgorzata, adwokatka "Mrówki"	ACTOR
+347276	tm817075	Sylwia Juszczak	Kamila, żona "Kaszuba"	ACTOR
 354558	tm817075	Adam Zdrójkowski	diler	ACTOR
 250915	tm817075	Oskar Stoczyński	Arek	ACTOR
-409654	tm817075	Paweł Iwanicki	"minister Grzegorz ""Blutka"""	ACTOR
-2327768	tm817075	Mateusz Nędza	"""Zajęcza Warga"""	ACTOR
-256646	tm817075	Jacek Beler	"Artur Łukasik ""Siwy"""	ACTOR
+409654	tm817075	Paweł Iwanicki	minister Grzegorz "Blutka"	ACTOR
+2327768	tm817075	Mateusz Nędza	"Zajęcza Warga"	ACTOR
+256646	tm817075	Jacek Beler	Artur Łukasik "Siwy"	ACTOR
 473955	tm817075	Witold Wielinski	restaurator	ACTOR
 367699	tm817075	Stanisław Banasiuk	pan Zbychu	ACTOR
 263055	tm817075	Mariusz Drężek	prezes klubu	ACTOR
 1047879	tm817075	Wojciech Urbański	analityk	ACTOR
 331499	tm817075	Andrzej Andrzejewski	mężczyzna na SOR-ze	ACTOR
-247098	tm817075	Michał Włodarczyk	"""Nochal"""	ACTOR
+247098	tm817075	Michał Włodarczyk	"Nochal"	ACTOR
 2056013	tm817075	Paweł Jusiński	Ernest	ACTOR
-1017279	tm817075	Mateusz Rzeźniczak	"""Picuś"""	ACTOR
-1328589	tm817075	Jędrzej Bigosiński	"""Glancuś"""	ACTOR
+1017279	tm817075	Mateusz Rzeźniczak	"Picuś"	ACTOR
+1328589	tm817075	Jędrzej Bigosiński	"Glancuś"	ACTOR
 2077626	tm817075	Honorata Witańska	dziennikarka	ACTOR
 1016449	tm817075	Paweł Orleański	prowadzący teleturniej	ACTOR
-2041495	tm817075	Patryk Michalak	"Dariusz Drzewiecki ""Daro"", brat ""Dzikiej"""	ACTOR
+2041495	tm817075	Patryk Michalak	Dariusz Drzewiecki "Daro", brat "Dzikiej"	ACTOR
 1165901	tm817075	Anna Biernacik	dziewczyna w pociągu	ACTOR
 2327679	tm817075	Piotr Janiszewski	chłopak w pociągu	ACTOR
-613274	tm817075	Magdalena Rembacz	"żona ""Mrówki"""	ACTOR
+613274	tm817075	Magdalena Rembacz	żona "Mrówki"	ACTOR
 2327594	tm817075	Jakub Sokołowski	kapitan dyżurny	ACTOR
 1112459	tm817075	Andrea Cattaneo	trener dyżurny	ACTOR
 2041385	tm817075	Kamil Baryła	młody kibol	ACTOR
@@ -72047,9 +72047,9 @@ person_id	id	name	character	role
 2327702	tm817075	Maria Kuśmierska	małolata	ACTOR
 172900	tm817075	Patrycja Soliman	Weronika	ACTOR
 255711	tm817075	Joanna Niemirska	wodzirejka na TFC	ACTOR
-2327748	tm817075	Kinga Suchan	"dziewczyna ""Goldena"""	ACTOR
-2327795	tm817075	Magdalena Jadowska	"koleżanka ""Mimi"""	ACTOR
-2327614	tm817075	Justyna Stojałowska	"kochanka ""Mrówki"" (nie występuje w napisach)"	ACTOR
+2327748	tm817075	Kinga Suchan	dziewczyna "Goldena"	ACTOR
+2327795	tm817075	Magdalena Jadowska	koleżanka "Mimi"	ACTOR
+2327614	tm817075	Justyna Stojałowska	kochanka "Mrówki" (nie występuje w napisach)	ACTOR
 2238904	tm817075	Cyprian T. Olencki		DIRECTOR
 316184	tm1137862	Matteo Martari	Matteo	ACTOR
 55463	tm1137862	Matilde Gioli	Giulia	ACTOR
@@ -73262,7 +73262,7 @@ person_id	id	name	character	role
 164325	tm1146393	Pompeyo Audivert	Alonso	ACTOR
 334890	tm1146393	Eugenia Guerty	Marisa	ACTOR
 243469	tm1146393	Norman Briski	Don José	ACTOR
-1249407	tm1146393	"Horacio ""Chirola"" Fernández"	Bernardo	ACTOR
+1249407	tm1146393	Horacio "Chirola" Fernández	Bernardo	ACTOR
 1263059	tm1146393	Matías Santoianni	Aldo	ACTOR
 1968015	tm1146393	Carla Pandolfi	Mamá Carla	ACTOR
 967280	tm1146393	Graciela Pal	Vecina Miguel	ACTOR
@@ -73653,7 +73653,7 @@ person_id	id	name	character	role
 1717166	ts291150	Emilie De Roo	Vanessa	ACTOR
 48985	ts291150	Tom Vermeir	Brahim	ACTOR
 308893	ts291150	Mourade Zeguendi	Imam	ACTOR
-1853569	ts291150	Yassine Ouaich	"Ismael ""Smile"" Boulasmoum"	ACTOR
+1853569	ts291150	Yassine Ouaich	Ismael "Smile" Boulasmoum	ACTOR
 831302	ts291150	Ward Kerremans	Jean-Baptiste	ACTOR
 1901708	ts291150	Ahlaam Teghadouini	Nadia Boulasmoum	ACTOR
 1063728	ts291150	Saïd Boumazoughe	Rachid	ACTOR
@@ -74395,7 +74395,7 @@ person_id	id	name	character	role
 169996	ts321084	Valentino Picone	Valentino	ACTOR
 308065	ts321084	Anna Favella	Ester	ACTOR
 5281	ts321084	Marianna Di Martino	Agata Scalia	ACTOR
-200944	ts321084	Tony Sperandeo	"Tonino Macaluso ""Cosa Useless"""	ACTOR
+200944	ts321084	Tony Sperandeo	Tonino Macaluso "Cosa Useless"	ACTOR
 2395532	ts321084	Ciro Chimento		ACTOR
 101735	ts321084	Domenico Centamore		ACTOR
 101732	ts321084	Maurizio Marchetti		ACTOR
@@ -75533,28 +75533,28 @@ person_id	id	name	character	role
 913107	tm1143058	Julia Wieniawa-Narkiewicz	Nikita	ACTOR
 812721	tm1143058	Mikołaj Kubacki	Piotr Kamcz	ACTOR
 28337	tm1143058	Dawid Ogrodnik	Andrzej	ACTOR
-139465	tm1143058	Janusz Chabior	"""Magi"""	ACTOR
+139465	tm1143058	Janusz Chabior	"Magi"	ACTOR
 283556	tm1143058	Anna Czartoryska	Teresa w wieku 30 lat	ACTOR
-174880	tm1143058	Rafał Mohr	"""Czuły Roman"""	ACTOR
+174880	tm1143058	Rafał Mohr	"Czuły Roman"	ACTOR
 2233493	tm1143058	Edyta Herbuś	Magda	ACTOR
 1562710	tm1143058	Ewelina Pankowska	Gabrysia	ACTOR
 174879	tm1143058	Andrzej Grabowski	Trener rugby / Sprzedawca na stadionie Lechii Gdańsk	ACTOR
 287464	tm1143058	Piotr Cyrwus	Kapitan Marek Spinacz	ACTOR
 125656	tm1143058	Klara Bielawka	Else	ACTOR
-97531	tm1143058	Anita Poddębniak	"Matka ""Nikosia"""	ACTOR
-347756	tm1143058	Andrzej Musiał	"Ojciec ""Nikosia"""	ACTOR
-56847	tm1143058	Marcin Czarnik	"""Laszlo"""	ACTOR
-1346339	tm1143058	Marcin Różalski	"""Rożek"""	ACTOR
+97531	tm1143058	Anita Poddębniak	Matka "Nikosia"	ACTOR
+347756	tm1143058	Andrzej Musiał	Ojciec "Nikosia"	ACTOR
+56847	tm1143058	Marcin Czarnik	"Laszlo"	ACTOR
+1346339	tm1143058	Marcin Różalski	"Rożek"	ACTOR
 191311	tm1143058	Wojciech Machnicki	Generał	ACTOR
 68907	tm1143058	Adam Woronowicz	Taksówkarz	ACTOR
 1080041	tm1143058	Mariusz Ostrowski	Urzędnik w Konsulacie Niemiec	ACTOR
 1122250	tm1143058	Maciej Kawulski	Ksiądz	ACTOR
 242322	tm1143058	Sebastian Perdek	Niemiecki strażnik graniczny	ACTOR
-1844791	tm1143058	Karol Bernacki	"""Barton"""	ACTOR
+1844791	tm1143058	Karol Bernacki	"Barton"	ACTOR
 1122250	tm1143058	Maciej Kawulski		DIRECTOR
 391261	tm1152323	Patricia Williams	Self	ACTOR
 73538	tm1152323	Robert Townsend		DIRECTOR
-67145	tm963023	Ayushmann Khurrana	"Manvinder ""Manu"" Munjal"	ACTOR
+67145	tm963023	Ayushmann Khurrana	Manvinder "Manu" Munjal	ACTOR
 104607	tm963023	Vaani Kapoor	Maanvi / Manu Brar	ACTOR
 337348	tm963023	Kanwaljit Singh	Brigadier Mohinder Brar	ACTOR
 2126927	tm963023	Gourav Sharma	Riz	ACTOR
@@ -75763,7 +75763,7 @@ person_id	id	name	character	role
 1854180	ts272669	Jonathan Kidder	Busy	ACTOR
 1854145	ts272669	Diona Elise Burnett	Magicart, Steve the Mop	ACTOR
 85201	ts272669	Katie Leclerc	Katie Leclerc	ACTOR
-28469	tm859005	Leonardo Sbaraglia	"David Samarás ""El Griego"""	ACTOR
+28469	tm859005	Leonardo Sbaraglia	David Samarás "El Griego"	ACTOR
 1672996	tm859005	Benjamín Otero	Benito	ACTOR
 54848	tm859005	Natalia Oreiro	Silvina	ACTOR
 888480	tm859005	Charo López	Yani	ACTOR
@@ -76332,10 +76332,10 @@ person_id	id	name	character	role
 1617269	tm1067260	Samyuktha Karthik	Damayanthi	ACTOR
 146859	tm1067260	Madhan Bob	Ayushman Sait	ACTOR
 203609	tm1067260	Muthukumar	Deputy Mayor	ACTOR
-193164	tm1067260	Gayathrie Shankar	"Special appearance in ""Arasial Kedi"" song"	ACTOR
+193164	tm1067260	Gayathrie Shankar	Special appearance in "Arasial Kedi" song	ACTOR
 148486	tm1067260	Prathap Pothan	Doctor (Cameo appearance)	ACTOR
 45437	tm1067260	Sathyaraj	Nagaraja Chola (Cameo appearance)	ACTOR
-212240	tm1067260	Raju Sundaram	"Special appearance in ""Arasial Kedi"" song"	ACTOR
+212240	tm1067260	Raju Sundaram	Special appearance in "Arasial Kedi" song	ACTOR
 2105866	tm1067260	Pondy Ravi	IT Officer	ACTOR
 2284283	tm1067260	Raichal Rabecca Philip		ACTOR
 652927	tm1067260	Raveena Ravi	Kamatchi (voice)	ACTOR
@@ -77791,7 +77791,7 @@ person_id	id	name	character	role
 1962840	tm1014599	Seyi Babatope		DIRECTOR
 1950442	tm1059008	Yedinson Flórez	Yimmy Barón / Paola Linares	ACTOR
 164248	tm1059008	Jessica Cediel	Liliana Navarro	ACTOR
-1402344	tm1059008	Javier Gardeazábal	"Agustín ""Peluca"" Ortíz"	ACTOR
+1402344	tm1059008	Javier Gardeazábal	Agustín "Peluca" Ortíz	ACTOR
 369222	tm1059008	Carla Giraldo	Valery Reinoso	ACTOR
 369221	tm1059008	Ana María Sánchez	Lourdes	ACTOR
 368473	tm1059008	Aída Morales	Maritza	ACTOR
